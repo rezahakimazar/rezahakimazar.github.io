@@ -1,5 +1,7 @@
 # CV
 
+![Hi! I'm Reza!](/images/me.jpg){width="20%" fig-align="left"}
+
 ## Education
 
 **University of Hamburg, Germany, Psychology, M.Sc.** 2023 - present
