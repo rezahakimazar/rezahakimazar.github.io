@@ -9,6 +9,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - pages\cv.qmd
 
 format:
   html:
