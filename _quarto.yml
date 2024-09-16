@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+  
+
+website:
+  title: "Reza Hakimazar"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    theme: morph
+    fontsize: 1rem
+    fontcolor: "#050e25"
+    linkcolor: "#6510d3"
+    monofont: courier new
+    css: styles.css
+    toc: true
+
+editor: visual
+

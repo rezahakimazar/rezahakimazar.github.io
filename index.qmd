@@ -1,0 +1,23 @@
+---
+title: "Psychology Student"
+image: mypic.png
+image-shape: round
+image-width: 15em
+links:
+  - text: Email
+    href: mailto:rezahakimazar@studium.uni-hamburg.de
+    icon: envelope
+  - text: GitHub
+    href: https://github.com
+    icon: github
+---
+
+
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
