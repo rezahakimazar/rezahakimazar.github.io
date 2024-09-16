@@ -1,6 +1,5 @@
 # CV
 
-![Hi! I'm Reza!](/images/me.jpg){width="20%" fig-align="left"}
 
 ## Education
 
