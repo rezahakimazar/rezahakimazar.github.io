@@ -1,7 +1,6 @@
 ---
 title: "Reza Hakimazar"
 image: images/me.jpg
-
 about: 
    template: solana
    image-shape: round
