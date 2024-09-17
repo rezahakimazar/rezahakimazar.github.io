@@ -4,12 +4,14 @@ project:
   
 
 website:
+  favicon: images\me.jpg
   title: "Reza Hakimazar"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - pages\cv.qmd
+
 
 format:
   html:
