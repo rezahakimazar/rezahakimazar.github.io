@@ -1,6 +1,4 @@
 ---
-title: "MORAL DECISION MAKING ACROSS CULTURES: INVESTIGATING THE EFFECTS OF STRESS"
-author: "Reza Hakimazar"
 format: revealjs
 bibliography: references.bib
 suppress-bibliography: true
