@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+
   
 
 website:
@@ -11,7 +12,7 @@ website:
       - href: index.qmd
         text: Home
       - pages\cv.qmd
-
+      - pages\presentation.qmd
 
 format:
   html:
