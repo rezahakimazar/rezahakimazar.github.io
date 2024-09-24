@@ -1,0 +1,24 @@
+---
+title: "MORAL DECISION MAKING ACROSS CULTURES: INVESTIGATING THE EFFECTS OF STRESS"
+author: "Reza Hakimazar"
+format: revealjs
+bibliography: references.bib
+suppress-bibliography: true
+---
+
+#### Background
+
+::: incremental
+1.  Culture has a sizable influence on cognition, from color perception to attention and moral decision-making [@jameson_culture_2005], [@ji_culture_2016], and [@sachdeva_culture_2011].
+2.  Previous studies on moral decision-making show significant cultural differences, even in neural representations [@han_cultural_2014] and [@seo_moral_2021].
+3.  One major factor that affects moral decision-making is stress [@shapiro_mindfulness-based_2012], [@singer_acute_2017], and [@starcke_does_2011]
+:::
+
+------------------------------------------------------------------------
+
+#### Background
+
+::: incremental
+1.  Stress is perceived and coped with differently across cultures [@hashim_cultural_2003] and [@vallejo_determining_2018].
+2.  However, there is little evidence about the effect of stress on moral decision-making across cultures.
+:::
