@@ -11,8 +11,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - pages\cv.qmd
-      - pages\presentation.qmd
+        icon: house
+      - href: pages\cv.qmd
+        text: CV
+        icon: file-earmark-person
+      - href: pages\presentation.qmd
+        text: Presentation
+        icon: file-earmark-easel
 
 format:
   html:
