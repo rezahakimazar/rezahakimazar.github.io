@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Reza Hakimazar",
     "section": "",
-    "text": "About\nI am a master’s student in research psychology at the University of Hamburg, currently working under the supervision of Dr. Lennart Wittkuhn on developing Findable, Accessible, Interoperable, and Reusable (FAIR) teaching materials.\nMy academic interests include social psychology, cultural psychology, and science communication. Recently, I have also been focusing on improving my skills in quantitative research methods in psychology. Here, you can listen to my podcast (it is in Persian)."
+    "text": "About\nI am a master’s student in research psychology at the University of Hamburg, currently working under the supervision of Dr. Lennart Wittkuhn on developing Findable, Accessible, Interoperable, and Reusable (FAIR) teaching materials.\nMy academic interests include social psychology, cultural psychology, and science communication. Recently, I have also been focusing on improving my skills in quantitative research methods in psychology."
   },
   {
     "objectID": "about.html",
@@ -166,5 +166,12 @@
     "title": "CV",
     "section": "",
     "text": "Accessibility Improvement Project, Field Researcher\nI participated in a community initiative focused on improving street accessibility for people with disabilities. This project demanded detailed data gathering and interactions with municipal offices and public transport authorities to make meaningful changes.\nSkinner Box Podcast, Host\nThis podcast consists of interviews and focuses on the experiences of people who study or have studied psychology.\nPsycastic Podcast, Host\nI hosted a 3-episode podcast about social psychology. The main point was to introduce the field of social psychology and its implications to a non-expert audience."
+  },
+  {
+    "objectID": "pages/podcast.html",
+    "href": "pages/podcast.html",
+    "title": "Reza Hakimazar",
+    "section": "",
+    "text": "Here you can listen to my podcast (it is in Persian)."
   }
 ]

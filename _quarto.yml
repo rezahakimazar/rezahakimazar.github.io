@@ -15,7 +15,9 @@ website:
       - href: pages\cv.qmd
         text: CV
         icon: file-earmark-person
-      
+      - href: pages\podcast.qmd
+        text: Podcast
+        icon: mic-fill
 
 format:
   html:
