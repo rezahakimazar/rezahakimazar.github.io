@@ -1,15 +1,21 @@
 ---
-format: revealjs
 bibliography: references.bib
 suppress-bibliography: true
+author: Reza Hakimazar
+warning: false
+format: 
+  revealjs:
+    footer: "Moral Decision Making Presentation"
+    theme: [default, custom.scss]
+    transition: fade
 ---
 
 #### Background
 
 ::: incremental
-1.  Culture has a sizable influence on cognition, from color perception to attention and moral decision-making [@jameson_culture_2005], [@ji_culture_2016], and [@sachdeva_culture_2011].
-2.  Previous studies on moral decision-making show significant cultural differences, even in neural representations [@han_cultural_2014] and [@seo_moral_2021].
-3.  One major factor that affects moral decision-making is stress [@shapiro_mindfulness-based_2012], [@singer_acute_2017], and [@starcke_does_2011]
+1.  [Culture has a sizable influence on **cognition**, from **color perception** to **attention** and **moral decision-making**]{.blue} [@jameson_culture_2005], [@ji_culture_2016], and [@sachdeva_culture_2011].
+2.  Previous studies on moral decision-making show significant cultural differences, **even in neural representations** [@han_cultural_2014] and [@seo_moral_2021].
+3.  [One major factor that affects moral decision-making is stress]{.yellow} [@shapiro_mindfulness-based_2012], [@singer_acute_2017], and [@starcke_does_2011]
 :::
 
 ------------------------------------------------------------------------
@@ -20,3 +26,75 @@ suppress-bibliography: true
 1.  Stress is perceived and coped with differently across cultures [@hashim_cultural_2003] and [@vallejo_determining_2018].
 2.  However, there is little evidence about the effect of stress on moral decision-making across cultures.
 :::
+
+::: {.callout-tip title="What is moral decision making?"}
+It a type of decisiom making within a moral context.
+:::
+
+------------------------------------------------------------------------
+
+### How codes analyze the data
+
+فارسی مینویسم تا ببینم چگونه رندر میکند this is a new slide
+
+```{r}
+#| code-summary: click to see the code
+#| echo: true
+#| code-fold: true
+#| code-line-numbers: 3-9
+
+
+# Load necessary libraries
+library(tidyverse)
+library(ggplot2)
+
+# Drift Diffusion Model Function
+simulate_ddm <- function(n_trials, drift_rate, threshold, non_decision_time, noise) {
+  decisions <- numeric(n_trials)
+  reaction_times <- numeric(n_trials)
+  
+  for (i in 1:n_trials) {
+    evidence <- 0
+    rt <- non_decision_time
+    while (abs(evidence) < threshold) {
+      evidence <- evidence + rnorm(1, mean = drift_rate, sd = noise)
+      rt <- rt + 0.001  # Increment time by 1ms
+    }
+    decisions[i] <- ifelse(evidence >= threshold, 1, 0)  # Decision: 1 = "Help others", 0 = "Personal Gain"
+    reaction_times[i] <- rt
+  }
+  return(data.frame(Decisions = decisions, RT = reaction_times))
+}
+
+# Set parameters for two conditions: High moral conflict and Low moral conflict
+n_trials <- 1000  # Number of simulated trials
+condition_1 <- simulate_ddm(n_trials, drift_rate = 0.3, threshold = 1, non_decision_time = 0.2, noise = 0.1)
+condition_2 <- simulate_ddm(n_trials, drift_rate = 0.1, threshold = 1, non_decision_time = 0.2, noise = 0.1)
+
+# Add a column indicating condition
+condition_1$Condition <- "High Conflict"
+condition_2$Condition <- "Low Conflict"
+
+# Combine datasets
+ddm_data <- rbind(condition_1, condition_2)
+
+# Calculate summary statistics
+summary_stats <- ddm_data %>%
+  group_by(Condition) %>%
+  summarise(Accuracy = mean(Decisions), Mean_RT = mean(RT), SD_RT = sd(RT))
+
+```
+
+------------------------------------------------------------------------
+
+### new
+
+::::: columns
+::: {.column .fragment width="50%"}
+left column
+:::
+
+::: {.column .fragment width="50%"}
+right column
+:::
+:::::
