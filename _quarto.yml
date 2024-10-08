@@ -19,10 +19,8 @@ website:
 
 format:
   html:
-    theme: morph
+    theme: minty
     fontsize: 1rem
-    fontcolor: "#050e25"
-    linkcolor: "#6510d3"
     monofont: courier new
     css: styles.css
     toc: true
