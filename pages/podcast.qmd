@@ -4,6 +4,4 @@ Here you can listen to my podcast (it is in Persian).
 
 </iframe>
 
-here are my slides:
 
-<iframe width="100%" height=500 src="presentation.html"></iframe>
