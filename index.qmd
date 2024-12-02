@@ -35,4 +35,4 @@ My academic interests include **social psychology** [^1], and **science communic
 
 [^1]: Self, culture, and social cognition
 
-[^2]: Pop science, psychology for the public and also FAIR principles is research
+[^2]: Pop science, psychology for the public and also FAIR principles in research
