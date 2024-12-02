@@ -7,3 +7,8 @@
 docs/docs/pages/presentation.html
 docs/pages/presentation.html
 docs/pages/presentation.html
+*.html
+*.html
+*.json
+docs/search.json
+docs/pages/cv.html
