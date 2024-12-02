@@ -1,17 +1,11 @@
 project:
   type: website
   output-dir: docs
-
-  
-
 website:
   favicon: images\me.jpg
   title: "Reza Hakimazar"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-        icon: house
       - href: pages\dev-01.qmd
         text: Developmental Psychology Lecture
         icon: bi-emoji-sunglasses-fill
