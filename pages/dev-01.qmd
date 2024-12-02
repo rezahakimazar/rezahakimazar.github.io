@@ -1,10 +1,10 @@
 ---
-title: " Dev. Psych. 01"
+title: " Dev. Psych. Session 01"
 ---
 
-# Session 1: Cognition and Culture  - 02.12.2024
+# Session 1: Cognition and Culture - 02.12.2024
 
-::: {.callout-tip}
+::: callout-tip
 Human thinking involves processing information and making predictions about the world. Various approaches and theories aim to explain how thinking occurs and its relationship with culture. This session offers an organized exploration of these topics through different perspectives.
 :::
 
@@ -18,16 +18,17 @@ To understand what makes human thinking unique, researchers often turn to develo
 
 A number of key concepts further illuminate the development of cognition. **Core knowledge** refers to limited, innate knowledge observed in infants as young as three to four months, which shows minimal cultural variation. **Statistical learning** suggests that humans detect patterns and regularities in their environment, forming cognitive frameworks based on these observations. **Cultural learning** highlights the importance of social interactions in shaping children’s understanding of the world, while **neuroconstructivism** emphasizes the dynamic interplay between biology and culture, suggesting that the brain specializes through development and learning.
 
-::: {.callout-note}
+::: callout-note
 Human cognition cannot be fully understood without considering its cultural context. The ability to collaborate, cooperate, and learn from others distinguishes humans from other primates. These unique adaptations enable shared cultural practices and qualitative differences in cognition.
 :::
 
 Several questions arise from this exploration of cognition and culture. For example, how do neural, embodiment, and social-interactional accounts complement one another in explaining thinking? Why is perspectivality essential for understanding cognition's cultural dimensions? What evidence supports the existence of core knowledge in infants? How does constructivism address the limitations of nativism and behaviorism? Finally, what distinguishes human cultural learning from similar processes observed in other primates?
 
-::: {.callout-tip}
-### Suggestions for Exam Success  
-- **Master key terms** such as "perspectivality," "core knowledge," and "statistical learning."  
-- **Use examples** (e.g., money or left-to-right writing) to clarify abstract ideas.  
-- **Compare and contrast theories** like nativism and constructivism to demonstrate critical understanding.  
-- Be prepared to explain why **culture is a necessary component** of cognitive studies.
+::: callout-tip
+### Suggestions for Exam Success
+
+-   **Master key terms** such as "perspectivality," "core knowledge," and "statistical learning."\
+-   **Use examples** (e.g., money or left-to-right writing) to clarify abstract ideas.\
+-   **Compare and contrast theories** like nativism and constructivism to demonstrate critical understanding.\
+-   Be prepared to explain why **culture is a necessary component** of cognitive studies.
 :::
