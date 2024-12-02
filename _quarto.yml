@@ -18,6 +18,9 @@ website:
       - href: pages\podcast.qmd
         text: Podcast
         icon: mic-fill
+      - href: pages\dev-01.qmd
+        text: Developmental Psychology Lecture
+        icon: bi-emoji-sunglasses-fill
 
 format:
   html:
