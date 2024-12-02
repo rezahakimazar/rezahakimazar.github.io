@@ -12,12 +12,6 @@ website:
       - href: index.qmd
         text: Home
         icon: house
-      - href: pages\cv.qmd
-        text: CV
-        icon: file-earmark-person
-      - href: pages\podcast.qmd
-        text: Podcast
-        icon: mic-fill
       - href: pages\dev-01.qmd
         text: Developmental Psychology Lecture
         icon: bi-emoji-sunglasses-fill
