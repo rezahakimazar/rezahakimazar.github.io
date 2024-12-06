@@ -1,7 +1,8 @@
 ---
-title: "Habits"
-author: "John Doe"
-format: revealjs
+title: "My Presentation"
+format:
+  revealjs:
+    incremental: true
 ---
 
 ## Getting up
