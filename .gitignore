@@ -4,3 +4,10 @@
 .Ruserdata
 
 /.quarto/
+.quarto/_freeze/pages/presentation/execute-results/html.json
+.quarto/_freeze/pages/presentation/execute-results/html.json
+.quarto/_freeze/site_libs/revealjs/dist/reveal.css
+*.js
+*.css
+*.json
+*.js
