@@ -1,0 +1,156 @@
+---
+title: "Developmental Psychology Lecture Notes"
+author: "Transcription Summary"
+format: html
+toc: true
+toc-depth: 3
+---
+
+# Developmental Psychology: Shared and Collective Intentionality
+
+This document summarizes the lecture content on shared and collective intentionality, covering key theories, experiments, and findings in developmental psychology.
+
+::: callout-important
+**Key Focus Areas**
+- Shared Intentionality: Collaboration and goal sharing in humans.
+- Collective Intentionality: Understanding group norms and roles.
+- Experiments: Details on studies exploring these phenomena.
+:::
+
+## Shared Intentionality and Cultural Evolution
+
+Shared intentionality refers to the unique human capacity to share goals and intentions, enabling collaborative actions and cultural innovations. This ability supports cumulative cultural evolution, exemplified by the **Ratchet Effect**, where cultural knowledge builds over generations without regression.
+
+::: {.callout-tip}
+**Ratchet Effect**  
+Cultural evolution builds on previous innovations, ensuring knowledge is retained and expanded across generations.
+:::
+
+### Mechanisms of Shared Intentionality
+1. **Joint Attention:** Coordinating focus between individuals on an object or event.
+2. **Imitation:** Adopting others’ behaviors while understanding their intentions.
+3. **Social Motivation:** Proactively helping and collaborating with others.
+
+## Experiments on Joint Attention
+
+### **Blindfold Experiment**
+::: {.callout-note}
+**Objective:**  
+To determine whether infants recognize others’ visual experiences.
+
+**Procedure:**
+- Infants observed an experimenter wearing either:
+  1. A standard opaque blindfold (cannot see).
+  2. A trick blindfold (looks opaque but allows sight).
+- Experimenter gazed at an object while wearing each type of blindfold.
+- Researchers recorded infants’ gaze-following behavior.
+
+**Findings:**  
+- At 12 months, infants followed the gaze less when the experimenter wore an opaque blindfold.
+- When the trick blindfold was demonstrated as see-through, infants resumed following the gaze.
+
+**Conclusion:**  
+Infants discern visual access based on contextual cues, showcasing early social-cognitive skills.
+:::
+
+### **Occlusion Experiment**
+::: {.callout-note}
+**Objective:**  
+To assess whether infants infer unseen objects based on others' gaze.
+
+**Procedure:**
+- Experimenter gazed behind a barrier, prompting infants to investigate.
+- Researchers recorded whether infants looked behind the barrier.
+
+**Findings:**  
+- By 18 months, infants actively looked behind barriers, expecting unseen objects.
+- Demonstrates advanced understanding of shared visual attention.
+
+**Conclusion:**  
+Infants infer the presence of unseen objects through others’ gaze, reflecting their ability to interpret intentions.
+:::
+
+## Social-Cognitive Skills: Imitation and Normativity
+
+### Imitation in Humans
+Imitation in humans is more than copying behaviors; it involves understanding others' intentions and integrating these into shared goals.
+
+### **Imitation Experiment**
+::: {.callout-note}
+**Objective:**  
+To investigate children’s understanding of group norms.
+
+**Procedure:**
+- Children observed an experimenter performing a task (e.g., moving objects).
+- A puppet performed the same task but used a different method.
+- Children corrected the puppet when it deviated from the demonstrated method.
+
+**Findings:**  
+- Children insisted the original method was correct, showing an understanding of norms.
+
+**Conclusion:**  
+Imitation in humans extends to enforcing group norms, reflecting early shared intentionality.
+:::
+
+---
+
+## Collective Intentionality and Group Dynamics
+
+Collective intentionality emerges as children recognize their role within groups. It involves understanding group norms, managing reputations, and aligning individual actions with collective goals.
+
+### Reputation Management Studies
+::: {.callout-tip}
+**Key Insight:**  
+By age five, children manage reputations, adapting behavior based on observation by peers.
+:::
+
+### **Sticker Sharing Experiment**
+::: {.callout-note}
+**Objective:**  
+To assess children’s generosity based on being observed.
+
+**Procedure:**
+- Children received stickers and were told they could share with peers.
+- Two conditions:
+  1. Observed by a peer.
+  2. Not observed.
+
+**Findings:**  
+- Children shared more stickers when observed, especially with peers from their own group.
+
+**Conclusion:**  
+Reputation management influences behavior, showing collective intentionality in young children.
+:::
+
+---
+
+## Comparative Studies: Humans vs. Great Apes
+
+Humans and great apes show distinct differences in social-cognitive skills:
+- **Humans:** Prioritize social conformity, teaching, and collaboration.
+- **Great Apes:** Focus on individual problem-solving and efficiency.
+
+### **Conformity Experiment**
+::: {.callout-note}
+**Objective:**  
+To assess whether children and apes conform to group behaviors.
+
+**Procedure:**
+- Participants learned how to obtain a reward from a box (functional and non-functional).
+- Observed peers using the non-functional box.
+
+**Findings:**  
+- **Children:** Switched to the non-functional method to conform with the group.
+- **Apes:** Continued using the functional box, prioritizing efficiency.
+
+**Conclusion:**  
+Humans prioritize conformity and collaboration, key to cultural evolution.
+:::
+
+---
+
+## Conclusion
+
+Shared and collective intentionality are foundational to human social cognition. From early joint attention and imitation to complex reputation management and norm enforcement, these abilities distinguish humans from other species. The lecture’s detailed experiments highlight the mechanisms that enable collaboration, cultural evolution, and societal development.
+
+---

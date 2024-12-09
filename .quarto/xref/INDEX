@@ -49,5 +49,8 @@
   },
   "pages/dev1.qmd": {
     "dev1.html": "2b1e01ef"
+  },
+  "pages/dev-02.qmd": {
+    "dev-02.html": "eaed681c"
   }
 }
