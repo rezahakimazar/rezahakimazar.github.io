@@ -1,34 +1,128 @@
 ---
-title: " Dev. Psych. Session 01"
+title: "Session 01"
+abstract: "Cognition and Culture: Understanding Human Thinking"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    code-fold: true
 ---
 
-# Session 1: Cognition and Culture - 02.12.2024
+## Introduction
+Human thinking involves processing information and making predictions about the world. While traditionally viewed as a solitary activity confined to the brain, a more holistic understanding reveals its deeply social and cultural dimensions.
 
-::: callout-tip
-Human thinking involves processing information and making predictions about the world. Various approaches and theories aim to explain how thinking occurs and its relationship with culture. This session offers an organized exploration of these topics through different perspectives.
+::: {.callout-note}
+Thinking is perspectival—its meaning and functionality depend heavily on the context and social constructs.
 :::
 
-Understanding human thinking often begins with examining how it has been investigated. Historically, thinking was treated as a solitary activity confined to the brain, sometimes metaphorically referred to as a *"brain in a jar."* However, this perspective neglects the broader social and cultural contexts in which cognition occurs. To address these complexities, scholars have developed various frameworks, including **neural**, **embodiment**, and **social-interactional accounts**.
+## The Perspectival Nature of Thinking
 
-Neural accounts focus on the brain as the central organ responsible for thinking. While this approach highlights the biological underpinnings of cognition, it faces significant challenges: understanding the brain alone does not explain how humans think within cultural and social frameworks. Embodiment accounts take this further, emphasizing that bodily experiences shape thought processes. For example, people who write from left to right often conceptualize time as moving in that direction. While embodiment provides valuable insights, it is insufficient for addressing the influence of culture. In contrast, social-interactional accounts argue that thinking is inherently social. People think and act together within institutionalized settings, such as marriages or universities. These perspectives collectively reveal that understanding cognition requires accounting for not only biological and bodily factors but also cultural and social dimensions.
+One of the defining characteristics of human cognition is its perspectival nature, meaning the value and purpose of objects and actions depend on the surrounding context. 
 
-Human thinking is deeply perspectival, shaped by the cultural and social contexts in which it occurs. Consider the example of money: while currency has universal utility in Germany, its value and role differ across cultures. This illustrates that cognition depends on social contexts, with objects and concepts acquiring different meanings in different cultures. Such perspectivality underscores the importance of considering culture when studying human thinking.
+For instance:
+- A €20 bill is currency in Europe but may serve as kindling on a desert island.
+- A stick might be a tool for an ape, a baton for a conductor, or a toy for a child.
 
-To understand what makes human thinking unique, researchers often turn to developmental approaches to cognition. Among these, **nativism** posits that knowledge is innate, arising from evolution and natural selection. According to this view, humans possess specialized cognitive modules, such as those for recognizing quantities. However, nativism struggles to explain cultural and developmental variation, as well as the interconnectedness observed in cognition. In contrast, **behaviorism** argues that knowledge is entirely learned through reinforcement and environmental contingencies. This perspective, while influential, fails to account for innate abilities or the ability to solve novel problems. Bridging these extremes, **constructivism** proposes that cognition arises from the interaction of innate blueprints, environmental influences, and action. Pioneers like **Jean Piaget** emphasized how individuals construct knowledge through their actions, while **Lev Vygotsky** highlighted the social and cultural context of thinking, emphasizing tools like writing that systematize thought.
+Such flexibility is a hallmark of human thinking, rooted in social constructs and shared understandings.
 
-A number of key concepts further illuminate the development of cognition. **Core knowledge** refers to limited, innate knowledge observed in infants as young as three to four months, which shows minimal cultural variation. **Statistical learning** suggests that humans detect patterns and regularities in their environment, forming cognitive frameworks based on these observations. **Cultural learning** highlights the importance of social interactions in shaping children’s understanding of the world, while **neuroconstructivism** emphasizes the dynamic interplay between biology and culture, suggesting that the brain specializes through development and learning.
+---
 
-::: callout-note
-Human cognition cannot be fully understood without considering its cultural context. The ability to collaborate, cooperate, and learn from others distinguishes humans from other primates. These unique adaptations enable shared cultural practices and qualitative differences in cognition.
+## Development of Human Cognition
+
+### Theoretical Frameworks {#theoretical-frameworks}
+
+Human cognition can be understood through three major frameworks:
+
+:::: {.panel-tabset}
+### Nativism
+- **Key Idea**: Knowledge is innate and shaped by evolutionary processes.
+- **Example**: Cheater detection modules, innate understanding of quantities.
+- **Criticisms**:
+    - Does not account for cultural and developmental variations.
+    - Struggles to explain interconnectedness between cognitive processes.
+
+### Behaviorism
+- **Key Idea**: Knowledge is entirely learned through reinforcement and environmental contingencies.
+- **Criticisms**:
+    - Overlooks innate abilities and fails to explain novel problem-solving.
+    - Struggles with generalizing knowledge across contexts.
+
+### Constructivism
+- **Key Idea**: Combines innate blueprints with environmental influences and actions.
+- **Prominent Figures**:
+    - **Jean Piaget**: Emphasized active knowledge construction through interaction with the environment.
+    - **Lev Vygotsky**: Highlighted the role of social tools, such as language, in shaping thought.
+
+Constructivism provides a balanced approach, recognizing the interplay of biology, environment, and active engagement.
+::::
+
+---
+
+## Core Knowledge and Cultural Learning {#core-knowledge}
+
+### Core Knowledge
+Infants possess innate understandings in specific domains, such as:
+- Object permanence
+- Physical properties (e.g., gravity, solidity)
+- Social interaction
+
+### Mechanisms for Cognitive Development
+1. **Statistical Learning**: Detecting patterns in the environment to predict outcomes.
+2. **Cultural Learning**: Acquiring knowledge through observation and interaction.
+3. **Neuroconstructivism**: Brain specialization shaped by environmental and cultural stimuli.
+
+::: {.callout-important}
+Culture amplifies innate capacities, transforming them into complex cognitive frameworks.
 :::
 
-Several questions arise from this exploration of cognition and culture. For example, how do neural, embodiment, and social-interactional accounts complement one another in explaining thinking? Why is perspectivality essential for understanding cognition's cultural dimensions? What evidence supports the existence of core knowledge in infants? How does constructivism address the limitations of nativism and behaviorism? Finally, what distinguishes human cultural learning from similar processes observed in other primates?
+---
 
-::: callout-tip
-### Suggestions for Exam Success
+## The Role of Culture {#role-of-culture}
 
--   **Master key terms** such as "perspectivality," "core knowledge," and "statistical learning."\
--   **Use examples** (e.g., money or left-to-right writing) to clarify abstract ideas.\
--   **Compare and contrast theories** like nativism and constructivism to demonstrate critical understanding.\
--   Be prepared to explain why **culture is a necessary component** of cognitive studies.
+Culture profoundly shapes human cognition by enabling:
+- **Collaboration**: Shared goals and joint actions.
+- **Psychological Tools**: Language, writing, and mathematics as cultural constructs.
+- **Moral Reasoning**: Justifying actions and adhering to norms.
+
+### Human vs. Primate Cognition
+Humans and primates share cognitive abilities like understanding object permanence and social hierarchies. However, humans differ in:
+- **Symbolic Reasoning**: Using tools like maps and mathematical systems.
+- **Reputation Management**: Concern for how others perceive them.
+- **Institutional Thinking**: Formation of governments, laws, and societal norms.
+
+---
+
+## Evolutionary Perspectives
+
+Human cognition likely evolved through two key transformations:
+
+:::: {.panel-tabset}
+### Step 1: Shared Intentionality
+- **Definition**: Direct interactions with others, enabling joint attention and shared goals.
+- **Developmental Evidence**:
+    - Infants recognize and respond to others’ intentions within their first year.
+
+### Step 2: Collective Intentionality
+- **Definition**: Adopting group perspectives and understanding societal norms.
+- **Developmental Evidence**:
+    - Around 2–3 years of age, children internalize collaborative structures and group dynamics.
+::::
+  
+::: {.callout-tip}
+These evolutionary shifts highlight the social and cooperative roots of human cognition.
+:::
+
+---
+
+## Conclusion
+
+Human cognition is not a solitary mental activity but a dynamic interplay of innate predispositions, cultural influences, and active engagement with the environment. 
+
+### Key Takeaways
+- Thinking is perspectival and socially constructed.
+- Cultural tools amplify cognitive capacities.
+- Evolutionary adaptations for cooperation distinguish human cognition from that of other species.
+
+::: {.callout-warning}
+Understanding human thinking requires integrating insights from biology, psychology, and anthropology.
 :::

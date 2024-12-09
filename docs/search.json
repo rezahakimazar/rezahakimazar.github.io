@@ -79,14 +79,14 @@
   {
     "objectID": "pages/presentation.html#getting-up",
     "href": "pages/presentation.html#getting-up",
-    "title": "Habits",
-    "section": "Getting up",
-    "text": "Getting up\n\nTurn off alarm\nGet out of bed"
+    "title": "My Presentation",
+    "section": "",
+    "text": "Turn off alarm\nGet out of bed"
   },
   {
     "objectID": "pages/presentation.html#going-to-sleep",
     "href": "pages/presentation.html#going-to-sleep",
-    "title": "Habits",
+    "title": "My Presentation",
     "section": "Going to sleep",
     "text": "Going to sleep\n\nGet in bed\nCount sheep"
   },
@@ -114,9 +114,9 @@
   {
     "objectID": "pages/presentation.html",
     "href": "pages/presentation.html",
-    "title": "Reza Hakimazar",
+    "title": "My Presentation",
     "section": "",
-    "text": "Background\n\n\nCulture has a sizable influence on cognition, from color perception to attention and moral decision-making (Jameson 2005), (Ji and Yap 2016), and (Sachdeva, Singh, and Medin 2011).\nPrevious studies on moral decision-making show significant cultural differences, even in neural representations (Han, Glover, and Jeong 2014) and (Seo, Na, and Kim 2021).\nOne major factor that affects moral decision-making is stress (Shapiro, Jazaieri, and Goldin 2012), (Singer et al. 2017), and (Starcke et al. 2011)\n\n\n\n\n\nBackground\n\n\nStress is perceived and coped with differently across cultures (Hashim 2003) and (Vallejo et al. 2018).\nHowever, there is little evidence about the effect of stress on moral decision-making across cultures.\n\n\n\n\n\n\n\n\nWhat is moral decision making?\n\n\n\nIt a type of decisiom making within a moral context.\n\n\n\n\n\nHow codes analyze the data\nفارسی مینویسم تا ببینم چگونه رندر میکند this is a new slide\n\n\nclick to see the code\n# Load necessary libraries\nlibrary(tidyverse)\nlibrary(ggplot2)\n\n# Drift Diffusion Model Function\nsimulate_ddm &lt;- function(n_trials, drift_rate, threshold, non_decision_time, noise) {\n  decisions &lt;- numeric(n_trials)\n  reaction_times &lt;- numeric(n_trials)\n  \n  for (i in 1:n_trials) {\n    evidence &lt;- 0\n    rt &lt;- non_decision_time\n    while (abs(evidence) &lt; threshold) {\n      evidence &lt;- evidence + rnorm(1, mean = drift_rate, sd = noise)\n      rt &lt;- rt + 0.001  # Increment time by 1ms\n    }\n    decisions[i] &lt;- ifelse(evidence &gt;= threshold, 1, 0)  # Decision: 1 = \"Help others\", 0 = \"Personal Gain\"\n    reaction_times[i] &lt;- rt\n  }\n  return(data.frame(Decisions = decisions, RT = reaction_times))\n}\n\n# Set parameters for two conditions: High moral conflict and Low moral conflict\nn_trials &lt;- 1000  # Number of simulated trials\ncondition_1 &lt;- simulate_ddm(n_trials, drift_rate = 0.3, threshold = 1, non_decision_time = 0.2, noise = 0.1)\ncondition_2 &lt;- simulate_ddm(n_trials, drift_rate = 0.1, threshold = 1, non_decision_time = 0.2, noise = 0.1)\n\n# Add a column indicating condition\ncondition_1$Condition &lt;- \"High Conflict\"\ncondition_2$Condition &lt;- \"Low Conflict\"\n\n# Combine datasets\nddm_data &lt;- rbind(condition_1, condition_2)\n\n# Calculate summary statistics\nsummary_stats &lt;- ddm_data %&gt;%\n  group_by(Condition) %&gt;%\n  summarise(Accuracy = mean(Decisions), Mean_RT = mean(RT), SD_RT = sd(RT))\n\n\n\n\n\nnew\n\n\nleft column\n\nright column"
+    "text": "Turn off alarm\nGet out of bed"
   },
   {
     "objectID": "pages/cv.html#fa-briefcase-experience",
@@ -191,9 +191,9 @@
   {
     "objectID": "pages/dev-01.html",
     "href": "pages/dev-01.html",
-    "title": "Dev. Psych. Session 01",
+    "title": "Session 01",
     "section": "",
-    "text": "Session 1: Cognition and Culture - 02.12.2024\n\n\n\n\n\n\nTip\n\n\n\nHuman thinking involves processing information and making predictions about the world. Various approaches and theories aim to explain how thinking occurs and its relationship with culture. This session offers an organized exploration of these topics through different perspectives.\n\n\nUnderstanding human thinking often begins with examining how it has been investigated. Historically, thinking was treated as a solitary activity confined to the brain, sometimes metaphorically referred to as a “brain in a jar.” However, this perspective neglects the broader social and cultural contexts in which cognition occurs. To address these complexities, scholars have developed various frameworks, including neural, embodiment, and social-interactional accounts.\nNeural accounts focus on the brain as the central organ responsible for thinking. While this approach highlights the biological underpinnings of cognition, it faces significant challenges: understanding the brain alone does not explain how humans think within cultural and social frameworks. Embodiment accounts take this further, emphasizing that bodily experiences shape thought processes. For example, people who write from left to right often conceptualize time as moving in that direction. While embodiment provides valuable insights, it is insufficient for addressing the influence of culture. In contrast, social-interactional accounts argue that thinking is inherently social. People think and act together within institutionalized settings, such as marriages or universities. These perspectives collectively reveal that understanding cognition requires accounting for not only biological and bodily factors but also cultural and social dimensions.\nHuman thinking is deeply perspectival, shaped by the cultural and social contexts in which it occurs. Consider the example of money: while currency has universal utility in Germany, its value and role differ across cultures. This illustrates that cognition depends on social contexts, with objects and concepts acquiring different meanings in different cultures. Such perspectivality underscores the importance of considering culture when studying human thinking.\nTo understand what makes human thinking unique, researchers often turn to developmental approaches to cognition. Among these, nativism posits that knowledge is innate, arising from evolution and natural selection. According to this view, humans possess specialized cognitive modules, such as those for recognizing quantities. However, nativism struggles to explain cultural and developmental variation, as well as the interconnectedness observed in cognition. In contrast, behaviorism argues that knowledge is entirely learned through reinforcement and environmental contingencies. This perspective, while influential, fails to account for innate abilities or the ability to solve novel problems. Bridging these extremes, constructivism proposes that cognition arises from the interaction of innate blueprints, environmental influences, and action. Pioneers like Jean Piaget emphasized how individuals construct knowledge through their actions, while Lev Vygotsky highlighted the social and cultural context of thinking, emphasizing tools like writing that systematize thought.\nA number of key concepts further illuminate the development of cognition. Core knowledge refers to limited, innate knowledge observed in infants as young as three to four months, which shows minimal cultural variation. Statistical learning suggests that humans detect patterns and regularities in their environment, forming cognitive frameworks based on these observations. Cultural learning highlights the importance of social interactions in shaping children’s understanding of the world, while neuroconstructivism emphasizes the dynamic interplay between biology and culture, suggesting that the brain specializes through development and learning.\n\n\n\n\n\n\nNote\n\n\n\nHuman cognition cannot be fully understood without considering its cultural context. The ability to collaborate, cooperate, and learn from others distinguishes humans from other primates. These unique adaptations enable shared cultural practices and qualitative differences in cognition.\n\n\nSeveral questions arise from this exploration of cognition and culture. For example, how do neural, embodiment, and social-interactional accounts complement one another in explaining thinking? Why is perspectivality essential for understanding cognition’s cultural dimensions? What evidence supports the existence of core knowledge in infants? How does constructivism address the limitations of nativism and behaviorism? Finally, what distinguishes human cultural learning from similar processes observed in other primates?\n\n\n\n\n\n\nSuggestions for Exam Success\n\n\n\n\nMaster key terms such as “perspectivality,” “core knowledge,” and “statistical learning.”\n\nUse examples (e.g., money or left-to-right writing) to clarify abstract ideas.\n\nCompare and contrast theories like nativism and constructivism to demonstrate critical understanding.\n\nBe prepared to explain why culture is a necessary component of cognitive studies."
+    "text": "Human thinking involves processing information and making predictions about the world. While traditionally viewed as a solitary activity confined to the brain, a more holistic understanding reveals its deeply social and cultural dimensions.\n\n\n\n\n\n\nNote\n\n\n\nThinking is perspectival—its meaning and functionality depend heavily on the context and social constructs."
   },
   {
     "objectID": "pages/dev-01.html#cognition-and-culture-understanding-human-thinking",
@@ -271,5 +271,54 @@
     "title": "A typesetting system to untangle the scientific writing process",
     "section": "Methods",
     "text": "Methods\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum dapibus dictum leo, vel molestie felis hendrerit at. In diam nisl, rhoncus dapibus facilisis at, laoreet ac nunc. Sed vehicula metus id faucibus tempus. Etiam at laoreet orci, mattis efficitur sem. Aenean eu malesuada nisl. Mauris tempor pulvinar magna, eu tempus felis aliquet nec. In nec iaculis nisi. Fusce at arcu enim. In ipsum massa, pretium vitae pharetra in, vulputate vel felis.\n\\(a + b = gamma\\)\nMauris egestas laoreet aliquam. Integer non convallis risus. Ut eu felis ut augue ultricies tempus. Integer posuere lacinia ex, ac sollicitudin tortor tempus id. Morbi dictum elit at orci accumsan, vitae volutpat dui scelerisque. Pellentesque vitae lectus id nisl posuere placerat pharetra nec ligula. Donec laoreet ligula hendrerit velit tempus porttitor. Vivamus eleifend imperdiet magna quis pellentesque. Pellentesque blandit congue nisi ac ultricies. Sed velit ante, pretium nec facilisis ac, ultricies vitae orci. In hac habitasse platea dictumst. Phasellus massa mauris, tincidunt sed facilisis eu, venenatis a leo.\nFusce id risus mauris. Morbi tincidunt interdum odio, a laoreet sem pulvinar condimentum. Integer suscipit lobortis quam vitae hendrerit. Duis nec convallis mi. Etiam cursus felis eget sem tincidunt, at vulputate urna mattis. Aenean nec libero condimentum, posuere tellus eget, ultrices dui. In quis magna ac metus facilisis porta. Integer et massa dignissim, tempus massa quis, feugiat ante. Aliquam a tortor ligula. Praesent aliquam, lorem id ullamcorper rutrum, nunc orci posuere nulla, id fermentum mi erat a justo. Sed ut sapien vulputate, elementum ante ac, maximus lorem. Phasellus metus est, ultricies et ipsum ac, volutpat lobortis turpis. Vestibulum accumsan elementum vehicula."
+  },
+  {
+    "objectID": "pages/dev-01.html#introduction",
+    "href": "pages/dev-01.html#introduction",
+    "title": "Session 01",
+    "section": "",
+    "text": "Human thinking involves processing information and making predictions about the world. While traditionally viewed as a solitary activity confined to the brain, a more holistic understanding reveals its deeply social and cultural dimensions.\n\n\n\n\n\n\nNote\n\n\n\nThinking is perspectival—its meaning and functionality depend heavily on the context and social constructs."
+  },
+  {
+    "objectID": "pages/dev-01.html#the-perspectival-nature-of-thinking",
+    "href": "pages/dev-01.html#the-perspectival-nature-of-thinking",
+    "title": "Session 01",
+    "section": "The Perspectival Nature of Thinking",
+    "text": "The Perspectival Nature of Thinking\nOne of the defining characteristics of human cognition is its perspectival nature, meaning the value and purpose of objects and actions depend on the surrounding context.\nFor instance: - A €20 bill is currency in Europe but may serve as kindling on a desert island. - A stick might be a tool for an ape, a baton for a conductor, or a toy for a child.\nSuch flexibility is a hallmark of human thinking, rooted in social constructs and shared understandings."
+  },
+  {
+    "objectID": "pages/dev-01.html#development-of-human-cognition",
+    "href": "pages/dev-01.html#development-of-human-cognition",
+    "title": "Session 01",
+    "section": "Development of Human Cognition",
+    "text": "Development of Human Cognition\n\nTheoretical Frameworks\nHuman cognition can be understood through three major frameworks:\n\nNativismBehaviorismConstructivism\n\n\n\nKey Idea: Knowledge is innate and shaped by evolutionary processes.\nExample: Cheater detection modules, innate understanding of quantities.\nCriticisms:\n\nDoes not account for cultural and developmental variations.\nStruggles to explain interconnectedness between cognitive processes.\n\n\n\n\n\nKey Idea: Knowledge is entirely learned through reinforcement and environmental contingencies.\nCriticisms:\n\nOverlooks innate abilities and fails to explain novel problem-solving.\nStruggles with generalizing knowledge across contexts.\n\n\n\n\n\nKey Idea: Combines innate blueprints with environmental influences and actions.\nProminent Figures:\n\nJean Piaget: Emphasized active knowledge construction through interaction with the environment.\nLev Vygotsky: Highlighted the role of social tools, such as language, in shaping thought.\n\n\nConstructivism provides a balanced approach, recognizing the interplay of biology, environment, and active engagement."
+  },
+  {
+    "objectID": "pages/dev-01.html#core-knowledge",
+    "href": "pages/dev-01.html#core-knowledge",
+    "title": "Session 01",
+    "section": "Core Knowledge and Cultural Learning",
+    "text": "Core Knowledge and Cultural Learning\n\nCore Knowledge\nInfants possess innate understandings in specific domains, such as: - Object permanence - Physical properties (e.g., gravity, solidity) - Social interaction\n\n\nMechanisms for Cognitive Development\n\nStatistical Learning: Detecting patterns in the environment to predict outcomes.\nCultural Learning: Acquiring knowledge through observation and interaction.\nNeuroconstructivism: Brain specialization shaped by environmental and cultural stimuli.\n\n\n\n\n\n\n\nImportant\n\n\n\nCulture amplifies innate capacities, transforming them into complex cognitive frameworks."
+  },
+  {
+    "objectID": "pages/dev-01.html#role-of-culture",
+    "href": "pages/dev-01.html#role-of-culture",
+    "title": "Session 01",
+    "section": "The Role of Culture",
+    "text": "The Role of Culture\nCulture profoundly shapes human cognition by enabling: - Collaboration: Shared goals and joint actions. - Psychological Tools: Language, writing, and mathematics as cultural constructs. - Moral Reasoning: Justifying actions and adhering to norms.\n\nHuman vs. Primate Cognition\nHumans and primates share cognitive abilities like understanding object permanence and social hierarchies. However, humans differ in: - Symbolic Reasoning: Using tools like maps and mathematical systems. - Reputation Management: Concern for how others perceive them. - Institutional Thinking: Formation of governments, laws, and societal norms."
+  },
+  {
+    "objectID": "pages/dev-01.html#evolutionary-perspectives",
+    "href": "pages/dev-01.html#evolutionary-perspectives",
+    "title": "Session 01",
+    "section": "Evolutionary Perspectives",
+    "text": "Evolutionary Perspectives\nHuman cognition likely evolved through two key transformations:\n\nStep 1: Shared IntentionalityStep 2: Collective Intentionality\n\n\n\nDefinition: Direct interactions with others, enabling joint attention and shared goals.\nDevelopmental Evidence:\n\nInfants recognize and respond to others’ intentions within their first year.\n\n\n\n\n\nDefinition: Adopting group perspectives and understanding societal norms.\nDevelopmental Evidence:\n\nAround 2–3 years of age, children internalize collaborative structures and group dynamics.\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nThese evolutionary shifts highlight the social and cooperative roots of human cognition."
+  },
+  {
+    "objectID": "pages/dev-01.html#conclusion",
+    "href": "pages/dev-01.html#conclusion",
+    "title": "Session 01",
+    "section": "Conclusion",
+    "text": "Conclusion\nHuman cognition is not a solitary mental activity but a dynamic interplay of innate predispositions, cultural influences, and active engagement with the environment.\n\nKey Takeaways\n\nThinking is perspectival and socially constructed.\nCultural tools amplify cognitive capacities.\nEvolutionary adaptations for cooperation distinguish human cognition from that of other species.\n\n\n\n\n\n\n\nWarning\n\n\n\nUnderstanding human thinking requires integrating insights from biology, psychology, and anthropology."
   }
 ]
