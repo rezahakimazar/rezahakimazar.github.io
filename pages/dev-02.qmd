@@ -1,6 +1,6 @@
 ---
-title: "Developmental Psychology Lecture Notes"
-author: "Transcription Summary"
+title: "Session 02"
+abstract: "Shared and Collective Intentionality"
 format: html
 toc: true
 toc-depth: 3
