@@ -3,7 +3,7 @@
     "path": "W:/website-for-cv/rezahakimazar.github.io/pages/cv.qmd",
     "project_path": "pages/cv.qmd",
     "type": "quarto_markdown",
-    "hash": "2314080988",
+    "hash": "3139807081",
     "contents": "",
     "dirty": false,
     "created": 1741266654962.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualModeLocation": "2:0",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "20,43",
-        "scrollLine": "10"
+        "cursorPosition": "88,2",
+        "scrollLine": "82"
     },
     "folds": "",
-    "lastKnownWriteTime": 1741266992,
+    "lastKnownWriteTime": 1741267107,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1741266992830,
+    "last_content_update": 1741267107093,
     "read_only": false,
     "read_only_alternatives": []
 }
