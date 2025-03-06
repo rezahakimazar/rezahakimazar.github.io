@@ -1,0 +1,6 @@
+"0",""
+"0",""
+"0","plot(x = data$`SUIC RISK`,"
+"0","     y = data$AGE,"
+"0","     xlab = ""Suicide Risk"","
+"0","     ylab = ""Age"")"

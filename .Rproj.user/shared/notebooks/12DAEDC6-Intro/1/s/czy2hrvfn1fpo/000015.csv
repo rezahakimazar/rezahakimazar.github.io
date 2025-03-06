@@ -1,0 +1,3 @@
+"0",""
+"0","hist(data$`ANXIETY TRAIT`, col = ""indianred"", xlab = ""Anxieety Trait Score"", ylab = ""How Frequent They Are"", "
+"0","     main = ""Anxiety Trait Histogram"", ylim = c(0,200))"

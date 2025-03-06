@@ -1,0 +1,128 @@
+---
+title: "Session 01"
+abstract: "Cognition and Culture: Understanding Human Thinking"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    code-fold: true
+---
+
+## Introduction
+Human thinking involves processing information and making predictions about the world. While traditionally viewed as a solitary activity confined to the brain, a more holistic understanding reveals its deeply social and cultural dimensions.
+
+::: {.callout-note}
+Thinking is perspectival—its meaning and functionality depend heavily on the context and social constructs.
+:::
+
+## The Perspectival Nature of Thinking
+
+One of the defining characteristics of human cognition is its perspectival nature, meaning the value and purpose of objects and actions depend on the surrounding context. 
+
+For instance:
+- A €20 bill is currency in Europe but may serve as kindling on a desert island.
+- A stick might be a tool for an ape, a baton for a conductor, or a toy for a child.
+
+Such flexibility is a hallmark of human thinking, rooted in social constructs and shared understandings.
+
+---
+
+## Development of Human Cognition
+
+### Theoretical Frameworks {#theoretical-frameworks}
+
+Human cognition can be understood through three major frameworks:
+
+:::: {.panel-tabset}
+### Nativism
+- **Key Idea**: Knowledge is innate and shaped by evolutionary processes.
+- **Example**: Cheater detection modules, innate understanding of quantities.
+- **Criticisms**:
+    - Does not account for cultural and developmental variations.
+    - Struggles to explain interconnectedness between cognitive processes.
+
+### Behaviorism
+- **Key Idea**: Knowledge is entirely learned through reinforcement and environmental contingencies.
+- **Criticisms**:
+    - Overlooks innate abilities and fails to explain novel problem-solving.
+    - Struggles with generalizing knowledge across contexts.
+
+### Constructivism
+- **Key Idea**: Combines innate blueprints with environmental influences and actions.
+- **Prominent Figures**:
+    - **Jean Piaget**: Emphasized active knowledge construction through interaction with the environment.
+    - **Lev Vygotsky**: Highlighted the role of social tools, such as language, in shaping thought.
+
+Constructivism provides a balanced approach, recognizing the interplay of biology, environment, and active engagement.
+::::
+
+---
+
+## Core Knowledge and Cultural Learning {#core-knowledge}
+
+### Core Knowledge
+Infants possess innate understandings in specific domains, such as:
+- Object permanence
+- Physical properties (e.g., gravity, solidity)
+- Social interaction
+
+### Mechanisms for Cognitive Development
+1. **Statistical Learning**: Detecting patterns in the environment to predict outcomes.
+2. **Cultural Learning**: Acquiring knowledge through observation and interaction.
+3. **Neuroconstructivism**: Brain specialization shaped by environmental and cultural stimuli.
+
+::: {.callout-important}
+Culture amplifies innate capacities, transforming them into complex cognitive frameworks.
+:::
+
+---
+
+## The Role of Culture {#role-of-culture}
+
+Culture profoundly shapes human cognition by enabling:
+- **Collaboration**: Shared goals and joint actions.
+- **Psychological Tools**: Language, writing, and mathematics as cultural constructs.
+- **Moral Reasoning**: Justifying actions and adhering to norms.
+
+### Human vs. Primate Cognition
+Humans and primates share cognitive abilities like understanding object permanence and social hierarchies. However, humans differ in:
+- **Symbolic Reasoning**: Using tools like maps and mathematical systems.
+- **Reputation Management**: Concern for how others perceive them.
+- **Institutional Thinking**: Formation of governments, laws, and societal norms.
+
+---
+
+## Evolutionary Perspectives
+
+Human cognition likely evolved through two key transformations:
+
+:::: {.panel-tabset}
+### Step 1: Shared Intentionality
+- **Definition**: Direct interactions with others, enabling joint attention and shared goals.
+- **Developmental Evidence**:
+    - Infants recognize and respond to others’ intentions within their first year.
+
+### Step 2: Collective Intentionality
+- **Definition**: Adopting group perspectives and understanding societal norms.
+- **Developmental Evidence**:
+    - Around 2–3 years of age, children internalize collaborative structures and group dynamics.
+::::
+  
+::: {.callout-tip}
+These evolutionary shifts highlight the social and cooperative roots of human cognition.
+:::
+
+---
+
+## Conclusion
+
+Human cognition is not a solitary mental activity but a dynamic interplay of innate predispositions, cultural influences, and active engagement with the environment. 
+
+### Key Takeaways
+- Thinking is perspectival and socially constructed.
+- Cultural tools amplify cognitive capacities.
+- Evolutionary adaptations for cooperation distinguish human cognition from that of other species.
+
+::: {.callout-warning}
+Understanding human thinking requires integrating insights from biology, psychology, and anthropology.
+:::

@@ -1,0 +1,2 @@
+"0","abline(line(x = data$DEPRESSION , y = data$`ANXIETY STATE`),"
+"0","       col = ""lavenderblush"" , lty = 3 , lwd = 4)  "

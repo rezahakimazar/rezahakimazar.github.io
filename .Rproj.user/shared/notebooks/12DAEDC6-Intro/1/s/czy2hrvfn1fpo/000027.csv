@@ -1,0 +1,2 @@
+"0","abline(line(x = data$DEPRESSION[data$SEX == ""woman""],"
+"0","            y = data$`ANXIETY TRAIT`[data$SEX == ""woman""]))"

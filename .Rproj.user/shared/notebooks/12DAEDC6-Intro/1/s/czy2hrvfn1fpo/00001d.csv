@@ -1,0 +1,6 @@
+"0",""
+"0","plot(x = data$DEPRESSION[data$SEX == ""man""] ,"
+"0","     y = data$`ANXIETY TRAIT`[data$SEX == ""man""],"
+"0","     xlab = ""Depression Scores"", ylab = ""Anxiety Scores"","
+"0","     col = ""navy"", pch = 1,"
+"0","     )"

@@ -1,0 +1,3 @@
+"0","points(x = data$DEPRESSION[data$SEX == ""woman""],"
+"0","       y = data$`ANXIETY TRAIT`[data$SEX == ""woman""],"
+"0","       pch = 5, col = ""red"")"
