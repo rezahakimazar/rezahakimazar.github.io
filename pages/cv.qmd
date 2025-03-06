@@ -1,10 +1,5 @@
 ---
-title: "CV"
-format:
-  html:
-    theme:
-      light: minty
-      dark: darkly
+title: "Professional Snapshot"
 ---
 
 ## {{< fa user-graduate >}} Education
@@ -19,17 +14,23 @@ Bachelor Thesis: *The Association between Gender Discrimination and Life Satisfa
 
 GPA: *18.78/20 in the Iranian System or 1.3 in the German System*
 
-## {{< fa briefcase >}} Experience
+## Experience
 
-#### **Open Educational Resources Project** , *Teaching and Research Assistant*
+#### **Participant Recrutment and Research Assistant**
 
-*Hamburg, Germany* \| *September 2024 - present*
+*Hamburg, Germany* \| *September 2024 - March 2025*
+
+{{< fa circle-info>}} To gain deeper insight into the research process and acquire hands-on experience, I manage participant data, recruit participants, and expand my knowledge in computational modelling. This diverse set of tasks not only challenges my flexibility in handling a wide range of responsibilities but also actively involves me in the research process, allowing me to gain practical experience under the guidance of post-doctoral researchers [Dr. Alexa Ruel](https://alexaruel.github.io/), [Dr. Xiangjuan Ren](https://scholar.google.com/citations?user=eA69neEAAAAJ&hl=en), and [Dr. Alexander Nitsch](https://x.com/AlexNitsch) at the Learning & Mechanisms of Change department at the University of Hamburg.
+
+#### **Open Educational Resources Project** , *Research Assistant*
+
+*Hamburg, Germany* \| *September 2024 - March 2025*
 
 {{< fa circle-info>}} This project is under the supervision of Dr. Lennart Wittkuhn at the University of Hamburg. The project aims to decentralize educational materials and make them more accessible for professors and students.
 
 #### **Track, Organize and Share your work: An Introduction to Git for Psychological Research** , *Teaching and Research Assistant*
 
-*Hamburg, Germany* \| *November 2024 - present*
+*Hamburg, Germany* \| *November 2024 - March 2025*
 
 {{< fa circle-info>}} This course is provided by Dr. Lennart Wittkuhn at Erasmus University Rotterdam and University of Hamburg. The course aims to familiarize the students with applications of Git in psychological research.
 

@@ -2,19 +2,17 @@ project:
   type: website
   output-dir: docs
 website:
-  favicon: images\me.jpg
-  title: "Reza Hakimazar"
+  favicon: images\me.png
+  title: "Home"
   navbar:
     left:
-      - href: pages\dev-01.qmd
-        text: Developmental Psychology Lecture
-        icon: bi-emoji-sunglasses-fill
-
+      - text: "Professional Snapshot"
+        href: pages/cv.qmd
+      - text: "Podcast (in Persian)"
+        href: pages/podcast.qmd
 format:
   html:
-    theme:
-      light: minty
-      dark: darkly
+    theme: lux
     linkcolor: "#529E53"
     fontsize: 1rem
     css: styles.css
