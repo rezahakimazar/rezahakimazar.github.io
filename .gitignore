@@ -1,1 +1,13 @@
 /.quarto/
+docs/pages/cv.html
+*.json
+*.pper
+.Rproj.user/E9A739C3/sources/prop/E6F62701
+.Rproj.user/E9A739C3/sources/session-294deeca/CAB94897
+.Rproj.user/E9A739C3/sources/session-294deeca/CAB94897-contents
+*.html
+*.json
+*.ttf
+*.woff2
+*.css
+*.json
