@@ -15,8 +15,7 @@ format:
     theme: lux
     linkcolor: "#529E53"
     fontsize: 1rem
-    css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 
