@@ -86,9 +86,9 @@
   {
     "objectID": "pages/blog.html",
     "href": "pages/blog.html",
-    "title": "Jotter Pen",
+    "title": "The Jotter Pen",
     "section": "",
-    "text": "My Post\n\n\n\n\n\nPost description\n\n\n\n\n\nMay 22, 2021\n\n\nFizz McPhee\n\n\n\n\n\n\nNo matching items"
+    "text": "The Iconic Jotter Pen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\npost1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "pages/posts/post1.html",
@@ -96,5 +96,12 @@
     "title": "My Post",
     "section": "",
     "text": "Draft posts will appear when you preview the site, but will be blank when you render the site and will not appear in listings, navigation, the site map, or site search. You can read more about drafts in Website Drafts.\nTo publish the p"
+  },
+  {
+    "objectID": "docs/pages/posts/post1.html",
+    "href": "docs/pages/posts/post1.html",
+    "title": "post1",
+    "section": "",
+    "text": "this is a random post"
   }
 ]
