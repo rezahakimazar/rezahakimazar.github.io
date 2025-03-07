@@ -3,9 +3,10 @@ project:
   output-dir: docs
 website:
   favicon: images\me.png
-  title: "Home"
   navbar:
     left:
+      - text: "About"
+        href: index.qmd
       - text: "The Jotter Pen"
         href: pages/blog.qmd
       - text: "Professional Snapshot"
