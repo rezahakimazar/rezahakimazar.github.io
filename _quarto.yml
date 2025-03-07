@@ -6,6 +6,8 @@ website:
   title: "Home"
   navbar:
     left:
+      - text: "The Jotter Pen"
+        href: pages/blog.qmd
       - text: "Professional Snapshot"
         href: pages/cv.qmd
       - text: "Podcast (in Persian)"
