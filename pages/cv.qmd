@@ -1,0 +1,103 @@
+---
+title: "Professional Snapshot"
+website:
+   back-to-top-navigation: true
+---
+
+## Education
+
+**University of Hamburg, Germany, Psychology, M.Sc.** 2023 - present
+
+**University of Isfahan, Iran, Psychology, B.Sc.** 2018 - 2023
+
+Bachelor Thesis: *The Association between Gender Discrimination and Life Satisfaction among Iranian Women: Mediating Role of Belief in a Just World*
+
+**Supervisor:** [Dr. Simindokht Kalani](https://www.linkedin.com/in/simindokht-kalani-4957b878/?originalSubdomain=ir)
+
+GPA: *18.78/20 in the Iranian System or 1.3 in the German System*
+
+## Experience
+
+#### **Participant Recrutment and Research Assistant**
+
+*Hamburg, Germany* \| *March 2025 - ongoing*
+
+{{< fa circle-info>}} To gain deeper insight into the research process and acquire hands-on experience, I manage participant data, recruit participants, and expand my knowledge in computational modelling. This diverse set of tasks not only challenges my flexibility in handling a wide range of responsibilities but also actively involves me in the research process, allowing me to gain practical experience under the guidance of post-doctoral researchers [Dr. Alexa Ruel](https://alexaruel.github.io/), [Dr. Xiangjuan Ren](https://scholar.google.com/citations?user=eA69neEAAAAJ&hl=en), and [Dr. Alexander Nitsch](https://x.com/AlexNitsch) at the Learning & Mechanisms of Change department at the University of Hamburg.
+
+#### **Open Educational Resources Project** , *Research Assistant*
+
+*Hamburg, Germany* \| *September 2024 - March 2025*
+
+{{< fa circle-info>}} This project is under the supervision of Dr. Lennart Wittkuhn at the University of Hamburg. The project aims to decentralize educational materials and make them more accessible for professors and students.
+
+#### **Track, Organize and Share your work: An Introduction to Git for Psychological Research** , *Teaching and Research Assistant*
+
+*Hamburg, Germany* \| *November 2024 - March 2025*
+
+{{< fa circle-info>}} This course is provided by Dr. Lennart Wittkuhn at Erasmus University Rotterdam and University of Hamburg. The course aims to familiarize the students with applications of Git in psychological research.
+
+#### **Ravanyara Psychology Group** , *Founder*
+
+*Isfahan, Iran - Remote from Hamburg* \| *October 2022 - present*
+
+{{< fa circle-info>}} Directed the remote organization of 3 scientific workshops, directly engaging with 100+ attendees and managing all communications - Published two issues of a psychology magazine for the public. - Implemented a feedback loop system to address customer inquiries, resulting in a 25 percent decrease in unresolved issues
+
+#### **Faculty of Psychology, University of Isfahan** , *Magazine Editor-in-chief*
+
+*Isfahan, Iran* \| *February 2021 - September 2022*
+
+{{< fa circle-info>}} Collaborated with authors to write simple scientific reviews - Managed team of 10+ student editors and writers - Issued 7 volumes of scientific magazine
+
+#### **Faculty of Psychology, University of Isfahan** , *Board Member of Psychology Student Association*
+
+*Isfahan, Iran* \| *November 2018 - February 2021*
+
+{{< fa circle-info>}} Coordinated academic projects, liaising with professors, administration offices,and external entities to facilitate smooth project execution - Helped over 200 students to access better education quality - Organized 10+ education workshops
+
+## Professional Development
+
+**Scientific Publications – How to make sense of complex texts**, *University of Hamburg, Germany*
+
+**Academic Writing Course**, *University of Hamburg, Germany*
+
+**Psychological Research Methods**, *Kharazmi University, Tehran, Iran*
+
+**An Introduction to Statistical Analysis with SPSS**, *Negareh Institute, Tehran, Iran*
+
+**EFPSA Research Summer School: The Importance of Understanding Diversity**
+
+*July 2024, Szklarska Poręba, Poland* *European Federation of Psychology Students’ Associations (EFPSA)*
+
+{{< fa circle-info>}} Exploring how psychology actively strives to foster community cohesion and enhance the welfare of societies, communities, and individuals. In this project, my focus is on the Afghan population in Iran and Germany to investigate the interaction of social exclusion, perceived discrimination, and hate speech.
+
+## Skills
+
+**Software**: Quarto, Git and Overleaf, Microsoft Office, Adobe Photoshop, Adobe Audition, Adobe InDesign **Statistical Analysis**: R programming and SPSS
+
+## Publications
+
+Rajaei, S. N., Hakimazar, R., Mehrabi, H. (2021). Review Paper: Kidfluencing and Sharenting. *First National Scientific Student Conference on Psychology, Ardabil*.
+
+## Languages
+
+**English**: *Proficient*, IELTS Certificate with an overall Band Score of 8 **German**: *Advanced*, TestDaF Certificate with an overall score of 19/20 **Persian**: *Native*
+
+## Awards
+
+*Top Student*
+
+{{< fa circle-info>}} I was among the top 15 percent of psychology students of Isfahan University at the time of graduation based on academic performance.
+
+## Volunteering
+
+**Accessibility Improvement Project**, *Field Researcher*
+
+{{< fa circle-info>}} I participated in a community initiative focused on improving street accessibility for people with disabilities. This project demanded detailed data gathering and interactions with municipal offices and public transport authorities to make meaningful changes.
+
+**Skinner Box Podcast**, *Host*
+
+{{< fa circle-info>}} This podcast consists of interviews and focuses on the experiences of people who study or have studied psychology.
+
+**Psycastic Podcast**, *Host*
+
+{{< fa circle-info>}} I hosted a 3-episode podcast about social psychology. The main point was to introduce the field of social psychology and its implications to a non-expert audience.

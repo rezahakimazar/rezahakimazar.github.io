@@ -1,11 +1,33 @@
 ---
-title: "blog"
+title: "Reza Hakimazar"
+subtitle: "Research Psychology M.Sc. Student"
+about: 
+   image: images/me.jpg
+   template: trestles
+   image-shape: round
+   image-width: 15em
+   links:
+      - text: Email
+        icon: envelope
+        href: mailto:reza.hakimazar@uni-hamburg.de
+      - text: X
+        icon: twitter-x
+        href: https://x.com/rhakimazar/
+      - text: GitHub
+        icon: github
+        href: https://github.com/rezahakimazar/
+      - text: LinkedIn
+        icon: linkedin
+        href: https://linkedin.com/in/reza-hakimazar-55186a23b/
+toc: false
 ---
 
-This is a Quarto website.
+# About
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a master's student in **research psychology** at the **University of Hamburg**, currently working under the supervision of [**Dr. Lennart Wittkuhn**](https://lennartwittkuhn.com/) on developing **Findable**, **Accessible**, **Interoperable**, and **Reusable (FAIR)** teaching materials.
 
-```{r}
-1 + 1
-```
+My academic interests include **social psychology** [^1], and **science communication** [^2]. Recently, I have also been focusing on improving my skills in **quantitative research methods in psychology** & learning about **causal inference**, **modelling and its application in social psychology**.
+
+[^1]: More accurately, person percetion and social cognition.
+
+[^2]: Pop science, psychology for the public and also FAIR principles in research
