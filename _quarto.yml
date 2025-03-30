@@ -17,7 +17,7 @@ website:
     right: "Built with {{<fa heart>}} and [Quarto](http://quarto.org)"
 format:
   html:
-    theme: default
+    theme: flatly
     linkcolor: "#529E53"
     fontsize: 1rem
     toc: false
