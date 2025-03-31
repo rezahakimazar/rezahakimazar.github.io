@@ -1,5 +1,5 @@
 ---
-title: "Day 01 - A Disapointing Start"
+title: "Day 01 - A Disappointing Start"
 format: html
 date: today
 categories:
