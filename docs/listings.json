@@ -2,6 +2,7 @@
   {
     "listing": "/pages/blog.html",
     "items": [
+      "/pages/posts/day-01.html",
       "/pages/posts/the-challenge.html"
     ]
   }

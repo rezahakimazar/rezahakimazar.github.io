@@ -4,8 +4,9 @@ listing:
    contents: posts
    sort: "date desc"
    type: grid
+   categories: true
 ---
 
 ![The Iconic Jotter Pen](images/jotter-pen.jpg){width="20%" fig-align="left"}\
 
-Here is called The Jotter Pen because of the famous pen by Parker Pens called The Jotter Pen. This pen is highly popular and has become an icon in the pen industry. Below is a photo of the real Jotter Pen. I have named here The Jotter Pen because this is a place where I jot(write quickly and briefly)! These blog posts are mostly sketches of my ideas. They may be followed up or just rest here till either I or GitHub die.\
+Here is called The Jotter Pen because of the famous pen by Parker Pens called The Jotter Pen. This pen is highly popular and has become an icon in the pen industry. On the top is a photo of the real Jotter Pen. I have named here The Jotter Pen because this is a place where I jot(write quickly and briefly)! These blog posts are mostly sketches of my ideas. They may be followed up or just rest here till either I or GitHub die.\

@@ -2,6 +2,8 @@
 title: "Day 00 - Start the Challenge"
 format: html
 date: today
+categories:
+  - challenge
 ---
 
 ![](../images/challenge.png)

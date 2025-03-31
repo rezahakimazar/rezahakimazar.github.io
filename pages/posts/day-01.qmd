@@ -1,0 +1,14 @@
+---
+title: "Day 01 - A Disapointing Start"
+format: html
+date: today
+categories:
+  - challenge
+---
+![](../images/disappointment.jpg)
+
+It was not good.
+I couldn't reduce my screen time, hit the gym, or read a paper.
+On the other hand I watched 2 episodes of Succession, what a masterpiece!
+
+Next day will be better.
