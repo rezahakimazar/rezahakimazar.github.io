@@ -8,7 +8,7 @@ execute:
 
 ## A Brief Introduction
 
-This document contains a series of visualizations about hate victimizations in different countries. The data is collected within the framework of our project called **Crossing Borders, Confronting Bias – Researching Culturally Competent Care for Minorities and Marginalized Groups Through the Eyes of Early Career Students**.
+This document contains a series of visualizations about hate victimization cases in different countries. The data is collected within the framework of our project called **Crossing Borders, Confronting Bias – Researching Culturally Competent Care for Minorities and Marginalized Groups Through the Eyes of Early Career Students**.
 
 ```{r}
 # Load the libraries
@@ -28,10 +28,6 @@ hate_categories <- read_csv("hate_categories_2022.csv")
 # Clean the columns
 
 hatedataset <- janitor::clean_names(hatedataset)
-glimpse(hatedataset)
-hatedataset <- hatedataset |> 
-  mutate(urban_vs_rural_percent = urban_vs_rural_percent * 100)
-
 hate_categories <- janitor::clean_names(hate_categories)
 
 ```
@@ -78,7 +74,7 @@ ggplot(heatmap, aes(x = reorder(Hate_Crime_Category, table(Hate_Crime_Category)[
 
 ## Psychologists needed!
 
-The plot below shows how many psychologists are active per 100k population in each country. India, as expected due to its population, has the lowest ratio of psychologists. Iran is the second to last after Germany, which is in urgent need of psychologists. Recently, there have been demands for a reform in the psychology training system of the country.
+The plot below shows how many psychologists are active per 100k population in each country. India, as expected due to its population, has the lowest ratio of psychologists. Iran is the second to last after Turkey and Germany, which is in urgent need of psychologists. Recently, there have been demands for a reform in the psychology training system of the country.
 
 ```{r}
 
@@ -123,7 +119,7 @@ ggplot(hatedataset, aes(
 
 ## Hate victimization trend and psychologists
 
-In this plot, we see the overall distribution of psychologists per 100k based on the victimization trend in each country. What we can learn from the plot is that, first of all, unfortunately, the trend is increasing in most of the countries. Second, a low number of psychologists doesn't always mean an increase in hate victimization. Third, countries that have an increasing trend have more psychologists than other countries in most cases. It reflects the importance of creating groups of experts from different fields to solve this multidimensional problem and not relying only on psychologists.
+In this plot, we see the overall distribution of psychologists per 100k based on the victimization trend in each country. What we can learn from the plot is that, first of all, unfortunately, the trend is increasing in most of the countries. Second, a low number of psychologists doesn't always mean an increase in hate victimization. Third, countries that have an increasing trend have more psychologists than other countries in most cases. It reflects the importance of creating groups of experts from different fields to solve this multidimensional problem and not relying only on psychologists. The bad news is that we couldn't find decreasing trends in the countries we collected data from. This can also be an indicator of better data communication and hate vicimization cases being recognized.
 
 ```{r}
 my_24_colors <- c(
@@ -151,7 +147,7 @@ ggplot(hatedataset, aes(x = hate_motivated_violence_victimization_trend,
 
 ```
 
-## Data source officiality
+## Official vs. unofficial data sources
 
 A huge challenge for gathering this data was the credibility of the sources. Many countries are not very transparent about the hate crime data. In order to capture the data we wanted, we had to refer to unofficial sources as well and cross-validate them. Here is a plot comparing the unofficial and official source numbers. As illustrated in the plot, most of the data is gathered using both ways.
 
@@ -166,7 +162,8 @@ ggplot(hatedataset, aes(x = data_capture_official)) +
     x = "",
     y = "Number of Countries"
   ) +
-  geom_text(stat = "count", aes(label = after_stat(count)), vjust = -0.3)
+  geom_text(stat = "count", aes(label = after_stat(count)), vjust = -0.3) +
+  theme_minimal()
 
 ggplot(hatedataset, aes(x = data_capture_unofficial)) +
   geom_bar(fill = "navy") +
@@ -175,7 +172,8 @@ ggplot(hatedataset, aes(x = data_capture_unofficial)) +
     x = "",
     y = "Number of Countries"
   ) +
-  geom_text(stat = "count", aes(label = after_stat(count)), vjust = -0.3)
+  geom_text(stat = "count", aes(label = after_stat(count)), vjust = -0.3) +
+  theme_minimal()
 ```
 
 ## Hate crimes in the countries with more transparent data
@@ -193,7 +191,8 @@ filter(hate_categories,
     y = "Number of Total Hate Crimes",
     title = "Total Hate Crimes"
   ) +
-  geom_text(aes(label = value), vjust = -0.3)
+  geom_text(aes(label = value), vjust = -0.3) +
+  theme_minimal()
 
 
 ## Plot Racism
@@ -207,7 +206,9 @@ filter(hate_categories,
     y = "Number of Hate Crimes based on Race",
     title = "Racial Hate Crimes"
   ) +
-  geom_text(aes(label = value), vjust = -0.3)
+  geom_text(aes(label = value), vjust = -0.3) +
+    theme_minimal()
+
 
 ## Plot Religion
 
@@ -220,7 +221,9 @@ hate_categories %>%
     x = "Countries",
     y = "Number of Hate Crimes based on Religion",
     title = "Religious Hate Crimes"
-  )
+  ) +
+    theme_minimal()
+
 
 ## Plot Gender/Sex Related Hate Crime
 hate_categories %>%
@@ -232,7 +235,9 @@ hate_categories %>%
     x = "Countries",
     y = "Number of Hate Crimes based Gender/Sex",
     title = "Gender/Sex Related Hate Crimes"
-  )
+  ) +
+    theme_minimal()
+
 ```
 
 ## Country specific plots
