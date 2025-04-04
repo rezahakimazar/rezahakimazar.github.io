@@ -7,12 +7,14 @@ website:
     left:
       - text: "About"
         href: index.qmd
-      - text: "The Jotter Pen"
-        href: pages/blog.qmd
+#      - text: "The Jotter Pen"
+ #       href: pages/blog.qmd
       - text: "Professional Snapshot"
         href: pages/cv.qmd
-      - text: "Podcast (in Persian)"
-        href: pages/podcast.qmd
+      - text: "Hate Visualizations(!)"
+        href: pages/hate-visualizations.qmd
+  #    - text: "Podcast (in Persian)"
+   #     href: pages/podcast.qmd
   page-footer:
     right: "Built with {{<fa heart>}} and [Quarto](http://quarto.org)"
 format:

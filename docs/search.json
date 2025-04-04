@@ -110,5 +110,131 @@
     "title": "Day 01 - A Disappointing Start",
     "section": "",
     "text": "It was not good. I couldn’t reduce my screen time, hit the gym, or read a paper. On the other hand I watched 2 episodes of Succession, what a masterpiece!\nNext day will be better."
+  },
+  {
+    "objectID": "pages/hate-visualizations.html",
+    "href": "pages/hate-visualizations.html",
+    "title": "hate-visualizations",
+    "section": "",
+    "text": "This document contains a series of visualizations about hate victimizations in different countries. The data is collected within the framework of our project called Crossing Borders, Confronting Bias – Researching Culturally Competent Care for Minorities and Marginalized Groups Through the Eyes of Early Career Students.\n\n\nRows: 24\nColumns: 16\n$ country                                      &lt;chr&gt; \"Portugal\", \"Belgium\", \"S…\n$ demographic_groups                           &lt;chr&gt; \"4\", \"3\", \"4\", \"4\", \"7\", …\n$ subcategory                                  &lt;lgl&gt; NA, NA, NA, NA, NA, NA, N…\n$ value                                        &lt;lgl&gt; NA, NA, NA, NA, NA, NA, N…\n$ urban_vs_rural_percent                       &lt;dbl&gt; 0.7338, 0.9860, 0.7910, 0…\n$ colonizer_4_colonized_3_both_2_neither_1     &lt;dbl&gt; 4, 4, 4, 4, 1, 4, 4, 3, 3…\n$ predominant_religion                         &lt;chr&gt; \"Christianity\", \"Christia…\n$ crime_rates_trend_mostly_scince_2020_to_2023 &lt;chr&gt; \"increasing\", \"declining\"…\n$ hate_motivated_violence_victimization_trend  &lt;chr&gt; \"increasing\", \"increasing…\n$ hate_crime_laws                              &lt;chr&gt; \"yes\", \"yes\", \"yes\", \"yes…\n$ types_of_hate_violence_top_3                 &lt;chr&gt; \"Discrimination and Incit…\n$ data_capture_official                        &lt;chr&gt; \"yes\", \"yes\", \"yes\", \"yes…\n$ data_capture_unofficial                      &lt;chr&gt; \"yes\", \"yes\", \"yes\", \"yes…\n$ number_of_psychologists                      &lt;chr&gt; \"27000\", \"14641\", \"38400\"…\n$ psychologist_ratio_per_100k_people           &lt;dbl&gt; 10.33, 25.00, 6.00, 48.70…\n$ population                                   &lt;dbl&gt; 10422082, 11832049, 47780…"
+  },
+  {
+    "objectID": "pages/hate-visualizations.html#a-brief-introduction",
+    "href": "pages/hate-visualizations.html#a-brief-introduction",
+    "title": "hate-visualizations",
+    "section": "",
+    "text": "This document contains a series of visualizations about hate victimizations in different countries. The data is collected within the framework of our project called Crossing Borders, Confronting Bias – Researching Culturally Competent Care for Minorities and Marginalized Groups Through the Eyes of Early Career Students.\n\n\nRows: 24\nColumns: 16\n$ country                                      &lt;chr&gt; \"Portugal\", \"Belgium\", \"S…\n$ demographic_groups                           &lt;chr&gt; \"4\", \"3\", \"4\", \"4\", \"7\", …\n$ subcategory                                  &lt;lgl&gt; NA, NA, NA, NA, NA, NA, N…\n$ value                                        &lt;lgl&gt; NA, NA, NA, NA, NA, NA, N…\n$ urban_vs_rural_percent                       &lt;dbl&gt; 0.7338, 0.9860, 0.7910, 0…\n$ colonizer_4_colonized_3_both_2_neither_1     &lt;dbl&gt; 4, 4, 4, 4, 1, 4, 4, 3, 3…\n$ predominant_religion                         &lt;chr&gt; \"Christianity\", \"Christia…\n$ crime_rates_trend_mostly_scince_2020_to_2023 &lt;chr&gt; \"increasing\", \"declining\"…\n$ hate_motivated_violence_victimization_trend  &lt;chr&gt; \"increasing\", \"increasing…\n$ hate_crime_laws                              &lt;chr&gt; \"yes\", \"yes\", \"yes\", \"yes…\n$ types_of_hate_violence_top_3                 &lt;chr&gt; \"Discrimination and Incit…\n$ data_capture_official                        &lt;chr&gt; \"yes\", \"yes\", \"yes\", \"yes…\n$ data_capture_unofficial                      &lt;chr&gt; \"yes\", \"yes\", \"yes\", \"yes…\n$ number_of_psychologists                      &lt;chr&gt; \"27000\", \"14641\", \"38400\"…\n$ psychologist_ratio_per_100k_people           &lt;dbl&gt; 10.33, 25.00, 6.00, 48.70…\n$ population                                   &lt;dbl&gt; 10422082, 11832049, 47780…"
+  },
+  {
+    "objectID": "pages/hate-visualizations.html#top-3-reported-hate-crime-types-in-each-country",
+    "href": "pages/hate-visualizations.html#top-3-reported-hate-crime-types-in-each-country",
+    "title": "hate-visualizations",
+    "section": "Top 3 reported hate crime types in each country",
+    "text": "Top 3 reported hate crime types in each country\nThis plot shows the three highest reported hate crime types in the countries in relatively broad conceptual categories."
+  },
+  {
+    "objectID": "pages/hate-visualizations.html#frequency-of-hate-crime-categories-in-the-dataset",
+    "href": "pages/hate-visualizations.html#frequency-of-hate-crime-categories-in-the-dataset",
+    "title": "hate-visualizations",
+    "section": "Frequency of Hate Crime Categories in the Dataset",
+    "text": "Frequency of Hate Crime Categories in the Dataset\nThis plot is a continuation of the previous one. It shows what types of hate crimes were most frequently reported as the top three categories in the countries. As we can see, racism and xenophobia are the leading category, followed by LGBTQ+ related hate crime and religious hate crime."
+  },
+  {
+    "objectID": "pages/hate-visualizations.html#psychologists-needed",
+    "href": "pages/hate-visualizations.html#psychologists-needed",
+    "title": "hate-visualizations",
+    "section": "Psychologists needed!",
+    "text": "Psychologists needed!\nThe plot below shows how many psychologists are active per 100k population in each country. India, as expected due to its population, has the lowest ratio of psychologists. Iran is the second to last after Germany, which is in urgent need of psychologists. Recently, there have been demands for a reform in the psychology training system of the country."
+  },
+  {
+    "objectID": "pages/hate-visualizations.html#urbanization-and-psychologists",
+    "href": "pages/hate-visualizations.html#urbanization-and-psychologists",
+    "title": "hate-visualizations",
+    "section": "Urbanization and psychologists",
+    "text": "Urbanization and psychologists\nWe can expect that with an increase in the ratio of urbanization, which can be an indicator of development, the number of psychologists will increase as well. As you can see in the data, there is not a strong relationship between the number of psychologists and how urbanized the country is (r = 0.20). The low correlation indicates that there are more important factors feeding into the lack of psychologists in different countries, such as the educational system, cultural values, economic status, etc."
+  },
+  {
+    "objectID": "pages/hate-visualizations.html#hate-victimization-trend-and-psychologists",
+    "href": "pages/hate-visualizations.html#hate-victimization-trend-and-psychologists",
+    "title": "hate-visualizations",
+    "section": "Hate victimization trend and psychologists",
+    "text": "Hate victimization trend and psychologists\nIn this plot, we see the overall distribution of psychologists per 100k based on the victimization trend in each country. What we can learn from the plot is that, first of all, unfortunately, the trend is increasing in most of the countries. Second, a low number of psychologists doesn’t always mean an increase in hate victimization. Third, countries that have an increasing trend have more psychologists than other countries in most cases. It reflects the importance of creating groups of experts from different fields to solve this multidimensional problem and not relying only on psychologists."
+  },
+  {
+    "objectID": "pages/hate-visualizations.html#data-source-officiality",
+    "href": "pages/hate-visualizations.html#data-source-officiality",
+    "title": "hate-visualizations",
+    "section": "Data source officiality",
+    "text": "Data source officiality\nA huge challenge for gathering this data was the credibility of the sources. Many countries are not very transparent about the hate crime data. In order to capture the data we wanted, we had to refer to unofficial sources as well and cross-validate them. Here is a plot comparing the unofficial and official source numbers. As illustrated in the plot, most of the data is gathered using both ways."
+  },
+  {
+    "objectID": "pages/hate-visualizations.html#hate-crimes-in-the-countries-with-more-transparent-data",
+    "href": "pages/hate-visualizations.html#hate-crimes-in-the-countries-with-more-transparent-data",
+    "title": "hate-visualizations",
+    "section": "Hate crimes in the countries with more transparent data",
+    "text": "Hate crimes in the countries with more transparent data"
+  },
+  {
+    "objectID": "pages/hate-visualizations.html#country-specific-plots",
+    "href": "pages/hate-visualizations.html#country-specific-plots",
+    "title": "hate-visualizations",
+    "section": "Country specific plots",
+    "text": "Country specific plots\nHere, we zoom in a bit to identify more nuanced trends and issues of each country. It should be noted that not all the data allowed us to plot based on country. Only a few countries publish regular, clean, and reliable data regarding hate crime, which is a major obstacle."
+  },
+  {
+    "objectID": "pages/hate-visualizations.html#hate-motivated-crimes-by-category-in-germany-2022",
+    "href": "pages/hate-visualizations.html#hate-motivated-crimes-by-category-in-germany-2022",
+    "title": "hate-visualizations",
+    "section": "Hate-Motivated Crimes by Category in Germany (2022)",
+    "text": "Hate-Motivated Crimes by Category in Germany (2022)"
+  },
+  {
+    "objectID": "pages/hate-visualizations.html#hate-motivated-crimes-by-category-in-netherlands-2022",
+    "href": "pages/hate-visualizations.html#hate-motivated-crimes-by-category-in-netherlands-2022",
+    "title": "hate-visualizations",
+    "section": "Hate-Motivated Crimes by Category in Netherlands (2022)",
+    "text": "Hate-Motivated Crimes by Category in Netherlands (2022)"
+  },
+  {
+    "objectID": "pages/hate-visualizations.html#hate-motivated-crimes-by-category-in-canada-2022",
+    "href": "pages/hate-visualizations.html#hate-motivated-crimes-by-category-in-canada-2022",
+    "title": "hate-visualizations",
+    "section": "Hate-Motivated Crimes by Category in Canada (2022)",
+    "text": "Hate-Motivated Crimes by Category in Canada (2022)"
+  },
+  {
+    "objectID": "pages/hate-visualizations.html#hate-motivated-crimes-by-category-in-italy-2022",
+    "href": "pages/hate-visualizations.html#hate-motivated-crimes-by-category-in-italy-2022",
+    "title": "hate-visualizations",
+    "section": "Hate-Motivated Crimes by Category in Italy (2022)",
+    "text": "Hate-Motivated Crimes by Category in Italy (2022)"
+  },
+  {
+    "objectID": "pages/hate-visualizations.html#hate-motivated-crimes-by-category-in-norway-2022",
+    "href": "pages/hate-visualizations.html#hate-motivated-crimes-by-category-in-norway-2022",
+    "title": "hate-visualizations",
+    "section": "Hate-Motivated Crimes by Category in Norway (2022)",
+    "text": "Hate-Motivated Crimes by Category in Norway (2022)"
+  },
+  {
+    "objectID": "pages/hate-visualizations.html#hate-motivated-crimes-by-category-in-austria-2022",
+    "href": "pages/hate-visualizations.html#hate-motivated-crimes-by-category-in-austria-2022",
+    "title": "hate-visualizations",
+    "section": "Hate-Motivated Crimes by Category in Austria (2022)",
+    "text": "Hate-Motivated Crimes by Category in Austria (2022)"
+  },
+  {
+    "objectID": "pages/hate-visualizations.html#hate-motivated-crimes-by-category-in-the-uk-2021",
+    "href": "pages/hate-visualizations.html#hate-motivated-crimes-by-category-in-the-uk-2021",
+    "title": "hate-visualizations",
+    "section": "Hate-Motivated Crimes by Category in the UK (2021)",
+    "text": "Hate-Motivated Crimes by Category in the UK (2021)"
+  },
+  {
+    "objectID": "pages/hate-visualizations.html#hate-motivated-crimes-by-category-in-czech-republic-2022",
+    "href": "pages/hate-visualizations.html#hate-motivated-crimes-by-category-in-czech-republic-2022",
+    "title": "hate-visualizations",
+    "section": "Hate-Motivated Crimes by Category in Czech Republic (2022)",
+    "text": "Hate-Motivated Crimes by Category in Czech Republic (2022)"
   }
 ]
