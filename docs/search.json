@@ -116,14 +116,14 @@
     "href": "pages/hate-visualizations.html",
     "title": "hate-visualizations",
     "section": "",
-    "text": "This document contains a series of visualizations about hate victimizations in different countries. The data is collected within the framework of our project called Crossing Borders, Confronting Bias – Researching Culturally Competent Care for Minorities and Marginalized Groups Through the Eyes of Early Career Students.\n\n\nRows: 24\nColumns: 16\n$ country                                      &lt;chr&gt; \"Portugal\", \"Belgium\", \"S…\n$ demographic_groups                           &lt;chr&gt; \"4\", \"3\", \"4\", \"4\", \"7\", …\n$ subcategory                                  &lt;lgl&gt; NA, NA, NA, NA, NA, NA, N…\n$ value                                        &lt;lgl&gt; NA, NA, NA, NA, NA, NA, N…\n$ urban_vs_rural_percent                       &lt;dbl&gt; 0.7338, 0.9860, 0.7910, 0…\n$ colonizer_4_colonized_3_both_2_neither_1     &lt;dbl&gt; 4, 4, 4, 4, 1, 4, 4, 3, 3…\n$ predominant_religion                         &lt;chr&gt; \"Christianity\", \"Christia…\n$ crime_rates_trend_mostly_scince_2020_to_2023 &lt;chr&gt; \"increasing\", \"declining\"…\n$ hate_motivated_violence_victimization_trend  &lt;chr&gt; \"increasing\", \"increasing…\n$ hate_crime_laws                              &lt;chr&gt; \"yes\", \"yes\", \"yes\", \"yes…\n$ types_of_hate_violence_top_3                 &lt;chr&gt; \"Discrimination and Incit…\n$ data_capture_official                        &lt;chr&gt; \"yes\", \"yes\", \"yes\", \"yes…\n$ data_capture_unofficial                      &lt;chr&gt; \"yes\", \"yes\", \"yes\", \"yes…\n$ number_of_psychologists                      &lt;chr&gt; \"27000\", \"14641\", \"38400\"…\n$ psychologist_ratio_per_100k_people           &lt;dbl&gt; 10.33, 25.00, 6.00, 48.70…\n$ population                                   &lt;dbl&gt; 10422082, 11832049, 47780…"
+    "text": "This document contains a series of visualizations about hate victimization cases in different countries. The data is collected within the framework of our project called Crossing Borders, Confronting Bias – Researching Culturally Competent Care for Minorities and Marginalized Groups Through the Eyes of Early Career Students."
   },
   {
     "objectID": "pages/hate-visualizations.html#a-brief-introduction",
     "href": "pages/hate-visualizations.html#a-brief-introduction",
     "title": "hate-visualizations",
     "section": "",
-    "text": "This document contains a series of visualizations about hate victimizations in different countries. The data is collected within the framework of our project called Crossing Borders, Confronting Bias – Researching Culturally Competent Care for Minorities and Marginalized Groups Through the Eyes of Early Career Students.\n\n\nRows: 24\nColumns: 16\n$ country                                      &lt;chr&gt; \"Portugal\", \"Belgium\", \"S…\n$ demographic_groups                           &lt;chr&gt; \"4\", \"3\", \"4\", \"4\", \"7\", …\n$ subcategory                                  &lt;lgl&gt; NA, NA, NA, NA, NA, NA, N…\n$ value                                        &lt;lgl&gt; NA, NA, NA, NA, NA, NA, N…\n$ urban_vs_rural_percent                       &lt;dbl&gt; 0.7338, 0.9860, 0.7910, 0…\n$ colonizer_4_colonized_3_both_2_neither_1     &lt;dbl&gt; 4, 4, 4, 4, 1, 4, 4, 3, 3…\n$ predominant_religion                         &lt;chr&gt; \"Christianity\", \"Christia…\n$ crime_rates_trend_mostly_scince_2020_to_2023 &lt;chr&gt; \"increasing\", \"declining\"…\n$ hate_motivated_violence_victimization_trend  &lt;chr&gt; \"increasing\", \"increasing…\n$ hate_crime_laws                              &lt;chr&gt; \"yes\", \"yes\", \"yes\", \"yes…\n$ types_of_hate_violence_top_3                 &lt;chr&gt; \"Discrimination and Incit…\n$ data_capture_official                        &lt;chr&gt; \"yes\", \"yes\", \"yes\", \"yes…\n$ data_capture_unofficial                      &lt;chr&gt; \"yes\", \"yes\", \"yes\", \"yes…\n$ number_of_psychologists                      &lt;chr&gt; \"27000\", \"14641\", \"38400\"…\n$ psychologist_ratio_per_100k_people           &lt;dbl&gt; 10.33, 25.00, 6.00, 48.70…\n$ population                                   &lt;dbl&gt; 10422082, 11832049, 47780…"
+    "text": "This document contains a series of visualizations about hate victimization cases in different countries. The data is collected within the framework of our project called Crossing Borders, Confronting Bias – Researching Culturally Competent Care for Minorities and Marginalized Groups Through the Eyes of Early Career Students."
   },
   {
     "objectID": "pages/hate-visualizations.html#top-3-reported-hate-crime-types-in-each-country",
@@ -144,7 +144,7 @@
     "href": "pages/hate-visualizations.html#psychologists-needed",
     "title": "hate-visualizations",
     "section": "Psychologists needed!",
-    "text": "Psychologists needed!\nThe plot below shows how many psychologists are active per 100k population in each country. India, as expected due to its population, has the lowest ratio of psychologists. Iran is the second to last after Germany, which is in urgent need of psychologists. Recently, there have been demands for a reform in the psychology training system of the country."
+    "text": "Psychologists needed!\nThe plot below shows how many psychologists are active per 100k population in each country. India, as expected due to its population, has the lowest ratio of psychologists. Iran is the second to last after Turkey and Germany, which is in urgent need of psychologists. Recently, there have been demands for a reform in the psychology training system of the country."
   },
   {
     "objectID": "pages/hate-visualizations.html#urbanization-and-psychologists",
@@ -158,7 +158,7 @@
     "href": "pages/hate-visualizations.html#hate-victimization-trend-and-psychologists",
     "title": "hate-visualizations",
     "section": "Hate victimization trend and psychologists",
-    "text": "Hate victimization trend and psychologists\nIn this plot, we see the overall distribution of psychologists per 100k based on the victimization trend in each country. What we can learn from the plot is that, first of all, unfortunately, the trend is increasing in most of the countries. Second, a low number of psychologists doesn’t always mean an increase in hate victimization. Third, countries that have an increasing trend have more psychologists than other countries in most cases. It reflects the importance of creating groups of experts from different fields to solve this multidimensional problem and not relying only on psychologists."
+    "text": "Hate victimization trend and psychologists\nIn this plot, we see the overall distribution of psychologists per 100k based on the victimization trend in each country. What we can learn from the plot is that, first of all, unfortunately, the trend is increasing in most of the countries. Second, a low number of psychologists doesn’t always mean an increase in hate victimization. Third, countries that have an increasing trend have more psychologists than other countries in most cases. It reflects the importance of creating groups of experts from different fields to solve this multidimensional problem and not relying only on psychologists. The bad news is that we couldn’t find decreasing trends in the countries we collected data from. This can also be an indicator of better data communication and hate vicimization cases being recognized."
   },
   {
     "objectID": "pages/hate-visualizations.html#data-source-officiality",
@@ -236,5 +236,12 @@
     "title": "hate-visualizations",
     "section": "Hate-Motivated Crimes by Category in Czech Republic (2022)",
     "text": "Hate-Motivated Crimes by Category in Czech Republic (2022)"
+  },
+  {
+    "objectID": "pages/hate-visualizations.html#official-vs.-unofficial-data-sources",
+    "href": "pages/hate-visualizations.html#official-vs.-unofficial-data-sources",
+    "title": "hate-visualizations",
+    "section": "Official vs. unofficial data sources",
+    "text": "Official vs. unofficial data sources\nA huge challenge for gathering this data was the credibility of the sources. Many countries are not very transparent about the hate crime data. In order to capture the data we wanted, we had to refer to unofficial sources as well and cross-validate them. Here is a plot comparing the unofficial and official source numbers. As illustrated in the plot, most of the data is gathered using both ways."
   }
 ]
