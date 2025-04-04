@@ -1,10 +1,10 @@
 Unnamed: 0,Country,Hate_Crime_Type,Hate_Crime_Category
 0,Portugal,racial discrimination,Racism/Xenophobia
 0,Portugal,homophobic violence,LGBTQ+
-0,Portugal,religion intolerance,Religion Intolerance
+0,Portugal,Religion,Religion
 1,Belgium,LGBTQ+,LGBTQ+
 1,Belgium,anti-immigrant and racial,Racism/Xenophobia
-1,Belgium,religious,Religion Intolerance
+1,Belgium,religious,Religion
 2,Spain,racist and xenophobic,Racism/Xenophobia
 2,Spain,anti-LGBTI,LGBTQ+
 2,Spain,gender-based,Gender-based
@@ -13,7 +13,7 @@ Unnamed: 0,Country,Hate_Crime_Type,Hate_Crime_Category
 3,France,sexual orientation/gender identity,Gender-based
 4,Iran,not specified,No Data
 5,Germany,racist and xenophobic,Racism/Xenophobia
-5,Germany,anti-semitic,Religion Intolerance
+5,Germany,anti-semitic,Religion
 5,Germany,anti-LGBTI,LGBTQ+
 6,Netherlands,race or skin colour,Racism/Xenophobia
 6,Netherlands,nationality,Racism/Xenophobia
@@ -22,42 +22,42 @@ Unnamed: 0,Country,Hate_Crime_Type,Hate_Crime_Category
 7,Belarus,LGBTQ,LGBTQ+
 7,Belarus,HIV/AIDS,LGBTQ+
 8,Canada,race or ethnicity,Racism/Xenophobia
-8,Canada,religion,Religion Intolerance
+8,Canada,religion,Religion
 8,Canada,sexual orientation,LGBTQ+
 9,Italy,racism and xenophobia,Racism/Xenophobia
 9,Italy,people with disabilities,Other
 9,Italy,LGBTQ+,LGBTQ+
 10,Turkey,ethnic-based,Racism/Xenophobia
-10,Turkey,religious-based,Religion Intolerance
+10,Turkey,religious-based,Religion
 10,Turkey,violence against LGBTQ+,LGBTQ+
-11,India,religious-based,Religion Intolerance
-11,India,caste-based,Religion Intolerance
+11,India,religious-based,Religion
+11,India,caste-based,Religion
 11,India,gender-based,Gender-based
 12,Norway,skin colour/ethnicity,Racism/Xenophobia
 12,Norway,sexual orientation,LGBTQ+
 12,Norway,gender identity,Gender-based
 13,Austria,worldview,Worldview
 13,Austria,nationality/ethnic background,Racism/Xenophobia
-13,Austria,religion,Religion Intolerance
+13,Austria,religion,Religion
 15,United Kingdom,race,Racism/Xenophobia
 15,United Kingdom,disability,Disability
-15,United Kingdom,religion,Religion Intolerance
+15,United Kingdom,religion,Religion
 16,Czech republic,Roma/racism/xenophobia,Racism/Xenophobia
 16,Czech republic,homophobia,LGBTQ+
 16,Czech republic,homelessness,Other
 18,Slovenia,LGBTQ+,LGBTQ+
 18,Slovenia,migrants/refugees,Racism/Xenophobia
-18,Slovenia,veiled Muslim women,Religion Intolerance
+18,Slovenia,veiled Muslim women,Religion
 19,Croatia,civil society reported,Other
-,Republic of Colombia (1886),Indigenous people (ethnicity),Racism/Xenophobia
-,Republic of Colombia (1886),Afro-Colombians (race),Racism/Xenophobia
-,Republic of Colombia (1886),LGBTQ,LGBTQ+
-,Republic of Ireland (1937),Racist/xenophobic,Racism/Xenophobia
-,Republic of Ireland (1937),LGBTQ,LGBTQ+
-,Republic of Ireland (1937),Religion (anti-Muslim)? Anti-Roma,Religion Intolerance
-,"Republic of South Africa (1961, 1994)",Nationality/xenophobic,Racism/Xenophobia
-,"Republic of South Africa (1961, 1994)",LGBTQ,LGBTQ+
-,"Republic of South Africa (1961, 1994)",Religion,Religion Intolerance
-,USA Federal Republic (1789),Race/ethnicity/ancestry 60%,Racism/Xenophobia
-,USA Federal Republic (1789),Sexual Orientation/LGBTQ 20%,LGBTQ+
-,USA Federal Republic (1789),Religion 15% (2022),Religion Intolerance
+,Republic of Colombia,Indigenous people (ethnicity),Racism/Xenophobia
+,Republic of Colombia,Afro-Colombians (race),Racism/Xenophobia
+,Republic of Colombia,LGBTQ,LGBTQ+
+,Republic of Ireland,Racist/xenophobic,Racism/Xenophobia
+,Republic of Ireland,LGBTQ,LGBTQ+
+,Republic of Ireland,Religion (anti-Muslim)? Anti-Roma,Religion
+,Republic of South Africa,Nationality/xenophobic,Racism/Xenophobia
+,Republic of South Africa,LGBTQ,LGBTQ+
+,Republic of South Africa,Religion,Religion
+,USA Federal Republic,Race/ethnicity/ancestry 60%,Racism/Xenophobia
+,USA Federal Republic,Sexual Orientation/LGBTQ 20%,LGBTQ+
+,USA Federal Republic,Religion 15% (2022),Religion
