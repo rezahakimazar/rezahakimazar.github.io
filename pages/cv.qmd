@@ -70,7 +70,7 @@ GPA: *18.78/20 in the Iranian System or 1.3 in the German System*
 
 ## Skills
 
-**Software**: Quarto, Git and Overleaf, Microsoft Office, Adobe Photoshop, Adobe Audition, Adobe InDesign **Statistical Analysis**: R programming and SPSS
+**Software**: Quarto, Git and Overleaf, Microsoft Office, Adobe Photoshop, Adobe Audition, Adobe InDesign **Statistical Analysis**: R programming, Python & SPSS
 
 ## Publications
 

@@ -7,8 +7,8 @@ website:
     left:
       - text: "About"
         href: index.qmd
-      - text: "The Jotter Pen"
-        href: pages/blog.qmd
+      #- text: "The Jotter Pen"
+      #  href: pages/blog.qmd
       - text: "Professional Snapshot"
         href: pages/cv.qmd
    #   - text: "Hate Visualizations(!)"
