@@ -15,8 +15,8 @@ website:
     #    href: pages/hate-visualizations.qmd
     #  - text: "Podcast (in Persian)"
      #   href: pages/podcast.qmd
-       - text: "EEG Lab Guide"
-         href: pages/EEGLabGuideRepro/index.qmd
+    #   - text: "EEG Lab Guide"
+     #    href: pages/EEGLabGuideRepro/index.qmd
   page-footer:
     right: "Built with {{<fa heart>}} and [Quarto](http://quarto.org)"
 format:
