@@ -1,5 +1,7 @@
 ---
-title: "Professional Snapshot"
+title: "Reza Hakimazar"
+subtitle: "reza.hakimazar@studium.uni-hamburg.de / Hamburg, Germany / (+49) 1551 053 18 46"
+format: typst
 ---
 
 ## Education
@@ -85,6 +87,9 @@ Rajaei, S. N., Hakimazar, R., Mehrabi, H. (2021). Review Paper: Kidfluencing and
 *Top Student*
 
 {{< fa circle-info>}} I was among the top 15 percent of psychology students of Isfahan University at the time of graduation based on academic performance.
+
+## A
+
 
 ## Volunteering
 

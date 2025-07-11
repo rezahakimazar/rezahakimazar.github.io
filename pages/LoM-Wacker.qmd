@@ -1,0 +1,30 @@
+---
+title: "LoM-Wacker"
+format: typst
+---
+
+Dear Dr. Paul,
+
+I am writing to express my genuine enthusiasm for the student assistant position.
+My name is Reza Hakimazar, a second-year master’s level student in research psychology at the University of Hamburg.
+
+I've been working as a student assistant since last year at the University of Hamburg in the Cognitive Neuroscience of Learning and Change.
+Mostly, I've been committed to two projects, specifically Digital and Data Literacy in Teaching Lab and Implementing FAIR (Findable, Accessible, Interoperable, and Reusable) and Reproducible Teaching.
+Both of these projects were supervised by Dr. Lennart Wittkuhn.
+
+These projects required literature review in the field of open science and reproducible research to write an online guide on tools needed for a more reproducible scientific society, in particular in psychology.
+After Dr. Wittkuhn unfortunately left the group, I was assigned to the ongoing projects in the group.
+
+Given my previous experience with EEG data collection, pre-processing, and analysis, I was assigned to help two master's students with running their experiments for their thesis under direct supervision of Dr. Alexa Ruel.
+The aforementioned previous experience with EEG comes from a project seminar I took last year with Dr. Alexa Ruel.
+In this highly valuable seminar, we learned both theoretical rationale behind EEG and also had hands-on experience by collecting data in that seminar and then analysing and writing a preliminary research article which I have sent you with the other documents.
+
+What also excites me is that this project will focus on linking neurological foundations of personality characteristics.
+As someone who is also interested in personality and social psychology, the topic would enrich my knowledge in different ways.
+
+As mentioned before, I have the experience which aligns with your project.
+My performance, abilities to coordinate projects, and responsibility and conscientiousness in the previous projects I've been involved in can be confirmed by colleagues I've worked with.
+
+Thank you for considering my application.
+Sincerely,
+Reza Hakimazar
