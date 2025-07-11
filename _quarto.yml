@@ -5,16 +5,18 @@ website:
   favicon: images\me.png
   navbar:
     left:
-      - text: "About"
-        href: index.qmd
+     # - text: "About"
+      #  href: index.qmd
       #- text: "The Jotter Pen"
       #  href: pages/blog.qmd
-      - text: "Professional Snapshot"
-        href: pages/cv.qmd
+     # - text: "Professional Snapshot"
+      #  href: pages/cv.qmd
    #   - text: "Hate Visualizations(!)"
     #    href: pages/hate-visualizations.qmd
-      - text: "Podcast (in Persian)"
-        href: pages/podcast.qmd
+    #  - text: "Podcast (in Persian)"
+     #   href: pages/podcast.qmd
+       - text: "EEG Lab Guide"
+         href: pages/EEGLabGuideRepro/index.qmd
   page-footer:
     right: "Built with {{<fa heart>}} and [Quarto](http://quarto.org)"
 format:
