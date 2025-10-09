@@ -1,10 +1,12 @@
 ---
-title: "hate-visualizations"
+title: "Hate Across the World: A Collaborative Effort in Data Collection and Reflection"
 format: html
 execute:
   warning: false
   echo: false
 ---
+
+![](/pages/images/hate.png){fig-align="center"}
 
 ## A Brief Introduction
 
@@ -12,7 +14,6 @@ This document contains a series of visualizations about hate victimization cases
 
 ```{r}
 # Load the libraries
-
 library(ggplot2)
 library(tidyverse)
 library(readxl)
@@ -52,7 +53,9 @@ ggplot(heatmap, aes(x=Hate_Crime_Category, y=reorder(Country, desc(Country)), fi
   theme(axis.text.x=element_text(angle=45, hjust=1),
         panel.grid=element_blank(),
         panel.background = element_rect(fill = "white", color=NA),
-        plot.background = element_rect(fill = "white", color=NA))
+        plot.background = element_rect(fill = "white", color=NA)) 
+
+
 ```
 
 ## Frequency of Hate Crime Categories in the Dataset

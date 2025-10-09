@@ -3,7 +3,7 @@ title: "Reza Hakimazar"
 subtitle: "Research Psychology M.Sc. Student"
 about: 
    image: images/me.jpg
-   template: trestles
+   template: jolla
    image-shape: round
    image-width: 15em
    links:
@@ -21,3 +21,8 @@ about:
         href: https://linkedin.com/in/reza-hakimazar-55186a23b/
 toc: false
 ---
+
+I'm Reza and this is my personal website.
+You can have an overview of my interests, skills and projects.
+
+I'm currently working in the ManyAnalysts Project with Dr. Katharina Paul and also the CMDM Lab (PI: Prof. Dr. Sebastian Gluth) at University of Hamburg.

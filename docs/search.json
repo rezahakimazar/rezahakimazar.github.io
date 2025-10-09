@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Reza Hakimazar",
     "section": "",
-    "text": "I am a master’s student in research psychology at the University of Hamburg, currently working on my master’s thesis about mate-accuracy of face perception.\nMy academic interests include social psychology 1, and science communication 2. Recently, I have also been focusing on improving my skills in quantitative research methods in psychology & learning about causal inference, modelling and its application in social psychology."
+    "text": "I’m Reza and this is my personal website. You can have an overview of my interests, skills and projects.\nI’m currently working in the ManyAnalysts Project with Dr. Katharina Paul and also the CMDM Lab (PI: Prof. Dr. Sebastian Gluth) at University of Hamburg."
   },
   {
     "objectID": "about.html",
@@ -16,9 +16,9 @@
   {
     "objectID": "pages/blog.html",
     "href": "pages/blog.html",
-    "title": "The Jotter Pen",
+    "title": "Projects",
     "section": "",
-    "text": "Here is called The Jotter Pen because of the famous pen by Parker Pens called The Jotter Pen. This pen is highly popular and has become an icon in the pen industry. On the top is a photo of the real Jotter Pen. I have named here The Jotter Pen because this is a place where I jot(write quickly and briefly)! These blog posts are mostly sketches of my ideas. They may be followed up or just rest here till either I or GitHub die.\n\n\n\n\n\n\n\n\n\n\n\n\n\nDay 01 - A Disappointing Start\n\n\n\nchallenge\n\n\n\n\n\n\n\n\n\n\nMar 30, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nDay 00 - Start the Challenge\n\n\n\nchallenge\n\n\n\n\n\n\n\n\n\n\nMar 29, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "An overview of the projects I have worked on.\n\n\n\n\n\n\n\n\n\n\n\n\nHate Across the World: A Collaborative Effort in Data Collection and Reflection\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "pages/podcast.html",
@@ -544,5 +544,425 @@
     "title": "BrainVision Workspace",
     "section": "Create Workspace Using an EPF",
     "text": "Create Workspace Using an EPF\n\nPre-requisites\n\nAn amplifier is selected\n\nThe amplifier is connected to the recording computer\n\nStep 1: Click on File &gt; New Workspace… or go to the Amplifier Settings dialog (second dialog page).\nStep 2: Click on Use Electrode Position File.\nStep 3: Select the checkbox Read positions from Electrode Position File.\nStep 4: Click on Browse and locate the electrode position file (.BVEF). (If you want to check the file, click on Preview).\nStep 5:* Click on Import amplifier channel table. Recorder takes over the assignment of channel names and physical channels.\n\n\n\n\n\n\nNote\n\n\n\nDon’t click this button if you edit an existing workspace and want to keep the channel assignment.\n\n\nStep 6: Click on OK to load the electrode positions (topographies).\nThe electrode positions and the channel table (if applicable) are loaded into Recorder. The information is written into the header file. You can check the result in the impedance measurement window.\n\n\n\n\n\n\nNote\n\n\n\nLoad complete files (covers the channel table and electrode topography): Steps 1–6\n\n\n\n\n\n\n\n\nNote\n\n\n\nLoad electrode topography (only electrodes that are already present in the channel table): Skip Step 5"
+  },
+  {
+    "objectID": "pages/posts/hate-visualizations.html",
+    "href": "pages/posts/hate-visualizations.html",
+    "title": "hate-visualizations",
+    "section": "",
+    "text": "This document contains a series of visualizations about hate victimization cases in different countries. The data is collected within the framework of our project called Crossing Borders, Confronting Bias – Researching Culturally Competent Care for Minorities and Marginalized Groups Through the Eyes of Early Career Students."
+  },
+  {
+    "objectID": "pages/posts/hate-visualizations.html#a-brief-introduction",
+    "href": "pages/posts/hate-visualizations.html#a-brief-introduction",
+    "title": "Hate Across the World: A Collaborative Effort in Data Collection and Reflection",
+    "section": "A Brief Introduction",
+    "text": "A Brief Introduction\nThis document contains a series of visualizations about hate victimization cases in different countries. The data is collected within the framework of our project called Crossing Borders, Confronting Bias – Researching Culturally Competent Care for Minorities and Marginalized Groups Through the Eyes of Early Career Students."
+  },
+  {
+    "objectID": "pages/posts/hate-visualizations.html#top-3-reported-hate-crime-types-in-each-country",
+    "href": "pages/posts/hate-visualizations.html#top-3-reported-hate-crime-types-in-each-country",
+    "title": "Hate Across the World: A Collaborative Effort in Data Collection and Reflection",
+    "section": "Top 3 reported hate crime types in each country",
+    "text": "Top 3 reported hate crime types in each country\nThis plot shows the three highest reported hate crime types in the countries in relatively broad conceptual categories."
+  },
+  {
+    "objectID": "pages/posts/hate-visualizations.html#frequency-of-hate-crime-categories-in-the-dataset",
+    "href": "pages/posts/hate-visualizations.html#frequency-of-hate-crime-categories-in-the-dataset",
+    "title": "Hate Across the World: A Collaborative Effort in Data Collection and Reflection",
+    "section": "Frequency of Hate Crime Categories in the Dataset",
+    "text": "Frequency of Hate Crime Categories in the Dataset\nThis plot is a continuation of the previous one. It shows what types of hate crimes were most frequently reported as the top three categories in the countries. As we can see, racism and xenophobia are the leading category, followed by LGBTQ+ related hate crime and religious hate crime."
+  },
+  {
+    "objectID": "pages/posts/hate-visualizations.html#psychologists-needed",
+    "href": "pages/posts/hate-visualizations.html#psychologists-needed",
+    "title": "Hate Across the World: A Collaborative Effort in Data Collection and Reflection",
+    "section": "Psychologists needed!",
+    "text": "Psychologists needed!\nThe plot below shows how many psychologists are active per 100k population in each country. India, as expected due to its population, has the lowest ratio of psychologists. Iran is the second to last after Turkey and Germany, which is in urgent need of psychologists. Recently, there have been demands for a reform in the psychology training system of the country."
+  },
+  {
+    "objectID": "pages/posts/hate-visualizations.html#urbanization-and-psychologists",
+    "href": "pages/posts/hate-visualizations.html#urbanization-and-psychologists",
+    "title": "Hate Across the World: A Collaborative Effort in Data Collection and Reflection",
+    "section": "Urbanization and psychologists",
+    "text": "Urbanization and psychologists\nWe can expect that with an increase in the ratio of urbanization, which can be an indicator of development, the number of psychologists will increase as well. As you can see in the data, there is not a strong relationship between the number of psychologists and how urbanized the country is (r = 0.20). The low correlation indicates that there are more important factors feeding into the lack of psychologists in different countries, such as the educational system, cultural values, economic status, etc."
+  },
+  {
+    "objectID": "pages/posts/hate-visualizations.html#hate-victimization-trend-and-psychologists",
+    "href": "pages/posts/hate-visualizations.html#hate-victimization-trend-and-psychologists",
+    "title": "Hate Across the World: A Collaborative Effort in Data Collection and Reflection",
+    "section": "Hate victimization trend and psychologists",
+    "text": "Hate victimization trend and psychologists\nIn this plot, we see the overall distribution of psychologists per 100k based on the victimization trend in each country. What we can learn from the plot is that, first of all, unfortunately, the trend is increasing in most of the countries. Second, a low number of psychologists doesn’t always mean an increase in hate victimization. Third, countries that have an increasing trend have more psychologists than other countries in most cases. It reflects the importance of creating groups of experts from different fields to solve this multidimensional problem and not relying only on psychologists. The bad news is that we couldn’t find decreasing trends in the countries we collected data from. This can also be an indicator of better data communication and hate vicimization cases being recognized."
+  },
+  {
+    "objectID": "pages/posts/hate-visualizations.html#official-vs.-unofficial-data-sources",
+    "href": "pages/posts/hate-visualizations.html#official-vs.-unofficial-data-sources",
+    "title": "Hate Across the World: A Collaborative Effort in Data Collection and Reflection",
+    "section": "Official vs. unofficial data sources",
+    "text": "Official vs. unofficial data sources\nA huge challenge for gathering this data was the credibility of the sources. Many countries are not very transparent about the hate crime data. In order to capture the data we wanted, we had to refer to unofficial sources as well and cross-validate them. Here is a plot comparing the unofficial and official source numbers. As illustrated in the plot, most of the data is gathered using both ways."
+  },
+  {
+    "objectID": "pages/posts/hate-visualizations.html#hate-crimes-in-the-countries-with-more-transparent-data",
+    "href": "pages/posts/hate-visualizations.html#hate-crimes-in-the-countries-with-more-transparent-data",
+    "title": "Hate Across the World: A Collaborative Effort in Data Collection and Reflection",
+    "section": "Hate crimes in the countries with more transparent data",
+    "text": "Hate crimes in the countries with more transparent data"
+  },
+  {
+    "objectID": "pages/posts/hate-visualizations.html#country-specific-plots",
+    "href": "pages/posts/hate-visualizations.html#country-specific-plots",
+    "title": "Hate Across the World: A Collaborative Effort in Data Collection and Reflection",
+    "section": "Country specific plots",
+    "text": "Country specific plots\nHere, we zoom in a bit to identify more nuanced trends and issues of each country. It should be noted that not all the data allowed us to plot based on country. Only a few countries publish regular, clean, and reliable data regarding hate crime, which is a major obstacle."
+  },
+  {
+    "objectID": "pages/posts/hate-visualizations.html#hate-motivated-crimes-by-category-in-germany-2022",
+    "href": "pages/posts/hate-visualizations.html#hate-motivated-crimes-by-category-in-germany-2022",
+    "title": "Hate Across the World: A Collaborative Effort in Data Collection and Reflection",
+    "section": "Hate-Motivated Crimes by Category in Germany (2022)",
+    "text": "Hate-Motivated Crimes by Category in Germany (2022)"
+  },
+  {
+    "objectID": "pages/posts/hate-visualizations.html#hate-motivated-crimes-by-category-in-netherlands-2022",
+    "href": "pages/posts/hate-visualizations.html#hate-motivated-crimes-by-category-in-netherlands-2022",
+    "title": "Hate Across the World: A Collaborative Effort in Data Collection and Reflection",
+    "section": "Hate-Motivated Crimes by Category in Netherlands (2022)",
+    "text": "Hate-Motivated Crimes by Category in Netherlands (2022)"
+  },
+  {
+    "objectID": "pages/posts/hate-visualizations.html#hate-motivated-crimes-by-category-in-canada-2022",
+    "href": "pages/posts/hate-visualizations.html#hate-motivated-crimes-by-category-in-canada-2022",
+    "title": "Hate Across the World: A Collaborative Effort in Data Collection and Reflection",
+    "section": "Hate-Motivated Crimes by Category in Canada (2022)",
+    "text": "Hate-Motivated Crimes by Category in Canada (2022)"
+  },
+  {
+    "objectID": "pages/posts/hate-visualizations.html#hate-motivated-crimes-by-category-in-italy-2022",
+    "href": "pages/posts/hate-visualizations.html#hate-motivated-crimes-by-category-in-italy-2022",
+    "title": "Hate Across the World: A Collaborative Effort in Data Collection and Reflection",
+    "section": "Hate-Motivated Crimes by Category in Italy (2022)",
+    "text": "Hate-Motivated Crimes by Category in Italy (2022)"
+  },
+  {
+    "objectID": "pages/posts/hate-visualizations.html#hate-motivated-crimes-by-category-in-norway-2022",
+    "href": "pages/posts/hate-visualizations.html#hate-motivated-crimes-by-category-in-norway-2022",
+    "title": "Hate Across the World: A Collaborative Effort in Data Collection and Reflection",
+    "section": "Hate-Motivated Crimes by Category in Norway (2022)",
+    "text": "Hate-Motivated Crimes by Category in Norway (2022)"
+  },
+  {
+    "objectID": "pages/posts/hate-visualizations.html#hate-motivated-crimes-by-category-in-austria-2022",
+    "href": "pages/posts/hate-visualizations.html#hate-motivated-crimes-by-category-in-austria-2022",
+    "title": "Hate Across the World: A Collaborative Effort in Data Collection and Reflection",
+    "section": "Hate-Motivated Crimes by Category in Austria (2022)",
+    "text": "Hate-Motivated Crimes by Category in Austria (2022)"
+  },
+  {
+    "objectID": "pages/posts/hate-visualizations.html#hate-motivated-crimes-by-category-in-the-uk-2021",
+    "href": "pages/posts/hate-visualizations.html#hate-motivated-crimes-by-category-in-the-uk-2021",
+    "title": "Hate Across the World: A Collaborative Effort in Data Collection and Reflection",
+    "section": "Hate-Motivated Crimes by Category in the UK (2021)",
+    "text": "Hate-Motivated Crimes by Category in the UK (2021)"
+  },
+  {
+    "objectID": "pages/posts/hate-visualizations.html#hate-motivated-crimes-by-category-in-czech-republic-2022",
+    "href": "pages/posts/hate-visualizations.html#hate-motivated-crimes-by-category-in-czech-republic-2022",
+    "title": "Hate Across the World: A Collaborative Effort in Data Collection and Reflection",
+    "section": "Hate-Motivated Crimes by Category in Czech Republic (2022)",
+    "text": "Hate-Motivated Crimes by Category in Czech Republic (2022)"
+  },
+  {
+    "objectID": "pages/posts/podcast.html",
+    "href": "pages/posts/podcast.html",
+    "title": "",
+    "section": "",
+    "text": "Here you can listen to my podcast (it is in Persian)."
+  },
+  {
+    "objectID": "pages/posts/chapters/8/8-cleanup.html",
+    "href": "pages/posts/chapters/8/8-cleanup.html",
+    "title": "Final Cleanup",
+    "section": "",
+    "text": "Step 1: Shut down both computers.\nStep 2: Ensure at least 2 clean towels are ready for the next day. If not, do laundry in Room 4135 (will need about 4.5 hours to complete).\n\n\n\nLaundry Room\n\n\nStep 3: Lock all the doors.\n\n\n\n\nStep 1: Put the laundry detergent in the left-hand compartment.\nStep 2: Set the washing program on “Koch/Buntwasche”.\nStep 3: 60 degrees.\nStep 4: Choose quick cycle on the screen.\nStep 5: Choose drying cycle to be the wardrobe.\n\n\n\n\n\n\n\nPut the Laundry Detergent\n\n\n\n\n\n\n\nSet the Washing Program\n\n\n\n\n\n\n\n\n\nSet the Temparature\n\n\n\n\n\n\n\nChoose the Drying Cycle"
+  },
+  {
+    "objectID": "pages/posts/chapters/8/8-cleanup.html#laundry-instructions",
+    "href": "pages/posts/chapters/8/8-cleanup.html#laundry-instructions",
+    "title": "Final Cleanup",
+    "section": "",
+    "text": "Step 1: Put the laundry detergent in the left-hand compartment.\nStep 2: Set the washing program on “Koch/Buntwasche”.\nStep 3: 60 degrees.\nStep 4: Choose quick cycle on the screen.\nStep 5: Choose drying cycle to be the wardrobe.\n\n\n\n\n\n\n\nPut the Laundry Detergent\n\n\n\n\n\n\n\nSet the Washing Program\n\n\n\n\n\n\n\n\n\nSet the Temparature\n\n\n\n\n\n\n\nChoose the Drying Cycle"
+  },
+  {
+    "objectID": "pages/posts/chapters/6/6-task.html",
+    "href": "pages/posts/chapters/6/6-task.html",
+    "title": "Reminders & Breaks",
+    "section": "",
+    "text": "1.1 Stay still between blocks 1.2 Let you know if they need a break 1.3 Knock on the cabin wall if they need help 1.4 Look at the fixation cross when it’s on the screen."
+  },
+  {
+    "objectID": "pages/posts/chapters/6/6-task.html#remind-them-to",
+    "href": "pages/posts/chapters/6/6-task.html#remind-them-to",
+    "title": "Reminders & Breaks",
+    "section": "",
+    "text": "1.1 Stay still between blocks 1.2 Let you know if they need a break 1.3 Knock on the cabin wall if they need help 1.4 Look at the fixation cross when it’s on the screen."
+  },
+  {
+    "objectID": "pages/posts/chapters/6/6-task.html#bathroom-breaks-if-needed",
+    "href": "pages/posts/chapters/6/6-task.html#bathroom-breaks-if-needed",
+    "title": "Reminders & Breaks",
+    "section": "Bathroom Breaks (if needed)",
+    "text": "Bathroom Breaks (if needed)\nStep 1: Pause recording in BrainVision\n\n\n\n\n\n\nIMPORTANT\n\n\n\nDON’T HIT THE STOP BUTTON.\n\n\nStep 2: Clamp electrode bundles with clip or tie. Step 3: Walk participant to bathroom."
+  },
+  {
+    "objectID": "pages/posts/chapters/6/6-task.html#upon-return",
+    "href": "pages/posts/chapters/6/6-task.html#upon-return",
+    "title": "Reminders & Breaks",
+    "section": "Upon return",
+    "text": "Upon return\nStep 1: Re-run impedance check to quickly ensure the electrodes are getting good readings. Step 2: Restart recording (append data). Step 3: Continue task."
+  },
+  {
+    "objectID": "pages/posts/chapters/4/4-gel-impedance.html",
+    "href": "pages/posts/chapters/4/4-gel-impedance.html",
+    "title": "Gel Demonstration & Impedance Setup",
+    "section": "",
+    "text": "Suggestion\n\n\n\nIf the participant has never been in an EEG experiment, it is good to demonstrate the tools you are working with and explain to them what you will be doing in order to reduce impendance."
+  },
+  {
+    "objectID": "pages/posts/chapters/4/4-gel-impedance.html#start-impedance-check",
+    "href": "pages/posts/chapters/4/4-gel-impedance.html#start-impedance-check",
+    "title": "Gel Demonstration & Impedance Setup",
+    "section": "Start Impedance Check",
+    "text": "Start Impedance Check\nStep 1: On EEG Tower, hit Impedance button (2nd top-left in BrainVision). Electrodes will light up red.\n\n\n\nImpedance Check on BrainVision"
+  },
+  {
+    "objectID": "pages/posts/chapters/4/4-gel-impedance.html#gel-application-tips",
+    "href": "pages/posts/chapters/4/4-gel-impedance.html#gel-application-tips",
+    "title": "Gel Demonstration & Impedance Setup",
+    "section": "Gel Application Tips",
+    "text": "Gel Application Tips\nStep 1: Angle syringe toward the electrode base. Step 2: Apply gel into each electrode until you see a small amount come out of the hole. Step 3: Swirl gel with the blunt end of the Q-tip (circular motion).\n\n\n\n\n\n\nApply Gel\n\n\n\n\n\n\n\nSwirl with a Q-tip\n\n\n\n\n\n\n\n\n\n\n\nIMPORTANT\n\n\n\nOnly when all electrodes are green (you have successfully reduced impendence to good level), proceed to the next step (recording)."
+  },
+  {
+    "objectID": "pages/posts/chapters/2/2-before-testing.html",
+    "href": "pages/posts/chapters/2/2-before-testing.html",
+    "title": "Before Testing",
+    "section": "",
+    "text": "Step 1: Connect the green male wire (notch aligned) to green port on the battery.\nStep 2: Do the same for the red wire and port on amplifier.\n\n\n\n\n\n\nREMINDER\n\n\n\nThe battery must stay pluged in all the time when not in use.\n\n\n\n\n\n\n\n\nOn the Battery\n\n\n\n\n\n\n\nOn the Amplifier\n\n\n\n\n\n\n\nBattery and Amplifier Connected"
+  },
+  {
+    "objectID": "pages/posts/chapters/2/2-before-testing.html#prepare-battery",
+    "href": "pages/posts/chapters/2/2-before-testing.html#prepare-battery",
+    "title": "Before Testing",
+    "section": "",
+    "text": "Step 1: Connect the green male wire (notch aligned) to green port on the battery.\nStep 2: Do the same for the red wire and port on amplifier.\n\n\n\n\n\n\nREMINDER\n\n\n\nThe battery must stay pluged in all the time when not in use.\n\n\n\n\n\n\n\n\nOn the Battery\n\n\n\n\n\n\n\nOn the Amplifier\n\n\n\n\n\n\n\nBattery and Amplifier Connected"
+  },
+  {
+    "objectID": "pages/posts/chapters/2/2-before-testing.html#turn-on-participant-cabin-monitor",
+    "href": "pages/posts/chapters/2/2-before-testing.html#turn-on-participant-cabin-monitor",
+    "title": "Before Testing",
+    "section": "Turn on Participant Cabin Monitor",
+    "text": "Turn on Participant Cabin Monitor\nPower button is a small, hard-to-find front-bottom right button (not on back).\n\n\n\n\n\n\nPower Button"
+  },
+  {
+    "objectID": "pages/posts/chapters/2/2-before-testing.html#power-on-the-task-laptop-and-eeg-tower",
+    "href": "pages/posts/chapters/2/2-before-testing.html#power-on-the-task-laptop-and-eeg-tower",
+    "title": "Before Testing",
+    "section": "Power on the Task Laptop and EEG Tower",
+    "text": "Power on the Task Laptop and EEG Tower\nStep 1: Log into the Admin account on the EEG Tower and task laptop (password: 4073abc).\nStep 2: On the Tower: Launch BrainVision Recorder (click “Yes” when prompted).\nStep 3: When the program is open, you should see a gray screen.\n\n\n\n\n\n\nluvadmin Account\n\n\n\n\n\n\n\nClick Yes\n\n\n\n\n\n\n\nGrey Screen on BrainVision"
+  },
+  {
+    "objectID": "pages/posts/chapters/2/2-before-testing.html#prepare-eeg-gel-syringes",
+    "href": "pages/posts/chapters/2/2-before-testing.html#prepare-eeg-gel-syringes",
+    "title": "Before Testing",
+    "section": "Prepare EEG Gel Syringes",
+    "text": "Prepare EEG Gel Syringes\nThe syringes are stored under the sink inside boxes.\nThe gel tub, tips box, Q-tips, scissors, and tissues are kept on the shelf next to the sink.\n\n\n\n\n\n\nBoxes of Syringes\n\n\n\n\n\n\n\nGel tub, Tips box, Q-tips, Scissors & Tissues\n\n\n\n\n\nStep 1: Take out the syringes and the tips from their packaging.\nStep 2: Fill two syringes with gel.\nStep 3: Close the gel tub immediately to prevent drying.\nStep 4: Attach the tips to the filled syringes.\nStep 5: Cut one of the Q-tips ends with the scissors.\nStep 6: Place two tissues and two Q-tips on the cabin bed in preparation for the participant.\n\n\n\n\n\n\nStep 1\n\n\n\n\n\n\n\nStep 2\n\n\n\n\n\n\n\nStep 3\n\n\n\n\n\n\n\n\n\nStep 4\n\n\n\n\n\n\n\nStep 5\n\n\n\n\n\n\n\nStep 6"
+  },
+  {
+    "objectID": "pages/posts/chapters/1/1-hardware-components.html",
+    "href": "pages/posts/chapters/1/1-hardware-components.html",
+    "title": "Hardware Components",
+    "section": "",
+    "text": "The EEG lab room is comprised (1) the EEG cabin (2) the workstation and (3) the cleaning station.\nThe task is performed inside the cabin, while the computers outside the cabin at the workstation runs the task and data collection. The workstation also includes the cleaning equipment, syringes, paper tissues, and towels.\n\n\n\n\n\n\nThe EEG Cabin\n\n\n\n\n\n\n\nThe Workstation\n\n\n\n\n\n\n\nThe Cleaning Station\n\n\n\n\n\nOutside the EEG cabin, at the workstation, you find see the task laptop, the EEG tower, and the trigger box. The laptop executes the experiment task and collects behavioral data, the tower records the EEG data, and the trigger box integrates triggers with the EEG data.\n\n\n\n\n\n\nEEG Tower\n\n\n\n\n\n\n\nBattery\n\n\n\n\n\n\n\nTrigger Box\n\n\n\n\n\nInside the EEG cabin, you will find the amplifier, battery, participant’s monitor, and electrode cap and cable to carry out the experiment. The electrodes are connected to the amplifier which is powered by the battery. The monitor displays the task for the participant, and the cap provides a base for the electrodes to collect the data.\n\n\n\n\n\n\nElectrodes cap\n\n\n\n\n\n\n\nParticipant’s Monitor\n\n\n\n\n\n\n\nAmplifier\n\n\n\n\n\nThe cleaning station is where you will find:\n\n\n\n\n\n\nSyringes\n\n\n\n\n\n\n\nGel\n\n\n\n\n\n\n\nTowels & Shampoo\n\n\n\n\n\nDo not forget to turn on the ventilator:\n\n\n\n\n\n\nVentilator\n\n\n\n\n\n\n\nVentilator set on 2"
+  },
+  {
+    "objectID": "pages/posts/chapters/3/3-cap-electrode.html",
+    "href": "pages/posts/chapters/3/3-cap-electrode.html",
+    "title": "Cap & Electrode Preparation",
+    "section": "",
+    "text": "Step 1: Measure around the head like a baseball cap (~1.5 - 2 cm / ~½–1 inch above eyebrows).\nStep 2: If between sizes (e.g., 57), start smaller (e.g., 56) and go up if the cap is too tight.\n\n\n\n\n\n\n\nAvailable Cap Sizes:\n\n\n\n54, 56, 58, 60\n\n\n\n\n\n\n\n\nCorrect Way of Head Measurement\n\n\n\n\n\n\n\n\n\nCap Size"
+  },
+  {
+    "objectID": "pages/posts/chapters/3/3-cap-electrode.html#head-measurement",
+    "href": "pages/posts/chapters/3/3-cap-electrode.html#head-measurement",
+    "title": "Cap & Electrode Preparation",
+    "section": "",
+    "text": "Step 1: Measure around the head like a baseball cap (~1.5 - 2 cm / ~½–1 inch above eyebrows).\nStep 2: If between sizes (e.g., 57), start smaller (e.g., 56) and go up if the cap is too tight.\n\n\n\n\n\n\n\nAvailable Cap Sizes:\n\n\n\n54, 56, 58, 60\n\n\n\n\n\n\n\n\nCorrect Way of Head Measurement\n\n\n\n\n\n\n\n\n\nCap Size"
+  },
+  {
+    "objectID": "pages/posts/chapters/3/3-cap-electrode.html#putting-on-the-cap",
+    "href": "pages/posts/chapters/3/3-cap-electrode.html#putting-on-the-cap",
+    "title": "Cap & Electrode Preparation",
+    "section": "Putting on the Cap",
+    "text": "Putting on the Cap\nStep 1: Ask participant to hold the back tag to help you get the cap on their head. Step 2: Pull cap on from back to front. Step 3: Ask them to keep their head up straight and steady. Step 4: Place your hand on the top of their head. Step 5: Slide the cap until it gets roughly to the right position. Step 6: Ask them to identify their occipital bone bump (back of head).\n\n\n\n\n\n\nPrticipant Holding the Tag\n\n\n\n\n\n\n\nSliding the Cap\n\n\n\n\n\n\n\nOccipital Bone Bump"
+  },
+  {
+    "objectID": "pages/posts/chapters/3/3-cap-electrode.html#check-reference-location",
+    "href": "pages/posts/chapters/3/3-cap-electrode.html#check-reference-location",
+    "title": "Cap & Electrode Preparation",
+    "section": "Check Reference Location",
+    "text": "Check Reference Location\nStep 1: Measure from the spot between eyebrows to the occipital bump.\nStep 2: Measure from ear to ear. The reference electrode should be approximately midpoint between eyebrows and occipital bone as well as midpoint between the ears.\nNote: This should result in the ground electrode being slightly above the eyebrows, but below the mid-forehead.\nStep 3: Adjust cap again as described above if needed.\n\n\n\n\n\n\n\nStep 1\n\n\n\n\n\n\n\nStep 2\n\n\n\n\n\n\n\nChecking the Reference Location"
+  },
+  {
+    "objectID": "pages/posts/chapters/3/3-cap-electrode.html#chin-strap",
+    "href": "pages/posts/chapters/3/3-cap-electrode.html#chin-strap",
+    "title": "Cap & Electrode Preparation",
+    "section": "Chin Strap",
+    "text": "Chin Strap\nStep 1: Ask participant to fasten chin strap themselves."
+  },
+  {
+    "objectID": "pages/posts/chapters/3/3-cap-electrode.html#plugging-in-the-electrodes",
+    "href": "pages/posts/chapters/3/3-cap-electrode.html#plugging-in-the-electrodes",
+    "title": "Cap & Electrode Preparation",
+    "section": "Plugging in the Electrodes",
+    "text": "Plugging in the Electrodes\nStep 1: Match Electrode Band 1–32 and 33–64 to the amplifier. Step 2: Use arrow on plug (top right) to align with amplifier port. Step 3: Insert straight in — do not bend, force, or wiggle. Step 4: Plug GND (ground electrode) separately into port labeled “GND” (round plug).\n\n\n\n\n\n\nMatch Electrode Bands with Amplifier\n\n\n\n\n\n\n\nInsert Straight in\n\n\n\n\n\n\n\n\n\nBoth Bands Plugged in\n\n\n\n\n\n\n\nPlug in the Ground"
+  },
+  {
+    "objectID": "pages/posts/chapters/5/5-recording.html",
+    "href": "pages/posts/chapters/5/5-recording.html",
+    "title": "Starting the Recording",
+    "section": "",
+    "text": "Step 1: Hit Stop sign.\nStep 2: Click the Eyeball icon.\nStep 3: Hit the play button.\nStep 4: Add your participants ID and other information on the file name.\nStep 5: Save the file to start recording.\n\n\n\n\n\n\n\nCheck\n\n\n\nThe recording is indicated by a red bar on the bottom of the screen (“SAVING HDD”).\n\n\nStep 6: Confirm that BrainVision is recording (green play button is active, time elapsed is at the bottom of the screen)."
+  },
+  {
+    "objectID": "pages/posts/chapters/5/5-recording.html#on-eeg-tower",
+    "href": "pages/posts/chapters/5/5-recording.html#on-eeg-tower",
+    "title": "Starting the Recording",
+    "section": "",
+    "text": "Step 1: Hit Stop sign.\nStep 2: Click the Eyeball icon.\nStep 3: Hit the play button.\nStep 4: Add your participants ID and other information on the file name.\nStep 5: Save the file to start recording.\n\n\n\n\n\n\n\nCheck\n\n\n\nThe recording is indicated by a red bar on the bottom of the screen (“SAVING HDD”).\n\n\nStep 6: Confirm that BrainVision is recording (green play button is active, time elapsed is at the bottom of the screen)."
+  },
+  {
+    "objectID": "pages/posts/chapters/5/5-recording.html#images-to-be-added",
+    "href": "pages/posts/chapters/5/5-recording.html#images-to-be-added",
+    "title": "Starting the Recording",
+    "section": "Images to be added",
+    "text": "Images to be added"
+  },
+  {
+    "objectID": "pages/posts/chapters/7/7-after.html",
+    "href": "pages/posts/chapters/7/7-after.html",
+    "title": "After the Task",
+    "section": "",
+    "text": "Step 1: Stop BrainVision recording, by hitting the stop symbol."
+  },
+  {
+    "objectID": "pages/posts/chapters/7/7-after.html#stop-the-recording",
+    "href": "pages/posts/chapters/7/7-after.html#stop-the-recording",
+    "title": "After the Task",
+    "section": "",
+    "text": "Step 1: Stop BrainVision recording, by hitting the stop symbol."
+  },
+  {
+    "objectID": "pages/posts/chapters/7/7-after.html#cap-and-electrode-removal-procedure",
+    "href": "pages/posts/chapters/7/7-after.html#cap-and-electrode-removal-procedure",
+    "title": "After the Task",
+    "section": "Cap and Electrode Removal Procedure",
+    "text": "Cap and Electrode Removal Procedure\nStep 1: Ask participant to remove chin strap.\nStep 2: Remove cap by placing your fingers under the front of the cap and removing it front to back.\nStep 3: Unplug the bands. (See below)\n\n\n\n\n\n\nIMPORTANT\n\n\n\nWrap connector boxes in a towel. The connectors are very sensitive and must not be wet. Even small drops of water can damage them. Be especially careful to keep them dry."
+  },
+  {
+    "objectID": "pages/posts/chapters/7/7-after.html#unplug-bands",
+    "href": "pages/posts/chapters/7/7-after.html#unplug-bands",
+    "title": "After the Task",
+    "section": "Unplug Bands",
+    "text": "Unplug Bands\nStep 1: Pinch base of plug and pull straight up.\n\n\n\n\n\n\n\nIMPORTANT\n\n\n\nDo not pull on the wire as you may damage the connection. You should only use the plastic connector.\n\n\nStep 2: For the ground electrode (labeled as GND), pinch at the plastic/amp junction and pull directly out—note that this is difficult to do so requires some force.\nThis CANNOT be bent or it will damage the pins inside the plug connector. DO NOT PULL ON THE WIRE.\n\n\n\n\n\n\nPinch and Pull up\n\n\n\n\n\n\n\nGround Electrode Unplugging"
+  },
+  {
+    "objectID": "pages/posts/chapters/7/7-after.html#post-session-hair-cleaning-support",
+    "href": "pages/posts/chapters/7/7-after.html#post-session-hair-cleaning-support",
+    "title": "After the Task",
+    "section": "Post-Session Hair Cleaning Support",
+    "text": "Post-Session Hair Cleaning Support\nStep 1: Provide the time and materials for the participant to wash their hair (clean towel, shampoo, hairdryer, brush or comb). They can be found on the shelf to the left side of the cabinet under the sink.\nStep 2: Close curtain for privacy\n\n\n\nClean towel, Shampoo, Hairdryer"
+  },
+  {
+    "objectID": "pages/posts/chapters/7/7-after.html#charge-the-battery",
+    "href": "pages/posts/chapters/7/7-after.html#charge-the-battery",
+    "title": "After the Task",
+    "section": "Charge the Battery",
+    "text": "Charge the Battery\nStep 1: Move the battery from the cabin to the experimenter desk outside the cabin, plug it in by aligning the notch in the cable to the slit in the hole on the battery. Push until you hear a click.\n\n\n\n\n\n\nIMPORTANT\n\n\n\nThe battery must remain plugged in to charge at all times when not in use.\n\n\n\n\n\nBattery Plugged in\n\n\nOnce participant is out of EEG lab and done washing their hair proceed to the next step."
+  },
+  {
+    "objectID": "pages/posts/chapters/7/7-after.html#electrode-cleaning",
+    "href": "pages/posts/chapters/7/7-after.html#electrode-cleaning",
+    "title": "After the Task",
+    "section": "Electrode Cleaning",
+    "text": "Electrode Cleaning\nStep 1: Plug the sink and fill it with lukewarm/cold water and place them in the blue basket.\n\n\n\n\n\n\nWARNING\n\n\n\nDo not use warm water! This will damage the electrodes.\n\n\nStep 2: Gently scrub gel out with a toothbrush until there is no more gel on the electrodes.\nStep 3: Hang the electrodes on the hanger on the wall to the right side of the sink.\n\n\n\n\n\n\nWARNING\n\n\n\nThe electrodes must not come in contact with any type of metal ever! This is very important to keep in mind at every single step of the experiment, especially while moving, washing and hanging the electrodes.\n\n\nStep 4: Wash cap, hang to dry on plastic stand (left of sink). You can use the fan on the cap to dry it faster. This is necessary if you are testing more than one participant in the same day.\n#IMAGES TO BE ADDED"
+  },
+  {
+    "objectID": "pages/posts/chapters/9/9-workspace.html",
+    "href": "pages/posts/chapters/9/9-workspace.html",
+    "title": "BrainVision Workspace",
+    "section": "",
+    "text": "Workspace saves user defined settings. It also stores all the settings you make in the amplifier and configuration menus, the impedance measurement settings. You can set up multiple workspaces with different settings, and switch between these as you wish. This provides you with an easy way to access recording parameters that you use frequently."
+  },
+  {
+    "objectID": "pages/posts/chapters/9/9-workspace.html#pre-requisites",
+    "href": "pages/posts/chapters/9/9-workspace.html#pre-requisites",
+    "title": "BrainVision Workspace",
+    "section": "Pre-requisites",
+    "text": "Pre-requisites\n\nAn amplifier is selected\n\nThe amplifier is connected to the recording computer"
+  },
+  {
+    "objectID": "pages/posts/chapters/9/9-workspace.html#how-to-opencreate-the-workspace-wizards",
+    "href": "pages/posts/chapters/9/9-workspace.html#how-to-opencreate-the-workspace-wizards",
+    "title": "BrainVision Workspace",
+    "section": "How to Open/Create the Workspace (Wizards)",
+    "text": "How to Open/Create the Workspace (Wizards)\nStep 1: Click on File &gt; New Workspace… or File &gt; Edit Workspace…\nStep 2: Data File Settings : to set all file related options"
+  },
+  {
+    "objectID": "pages/posts/chapters/9/9-workspace.html#amplifier-settings",
+    "href": "pages/posts/chapters/9/9-workspace.html#amplifier-settings",
+    "title": "BrainVision Workspace",
+    "section": "Amplifier Settings",
+    "text": "Amplifier Settings\nThe second page contains amplifier-specific parameters (1) and the channel table (2)."
+  },
+  {
+    "objectID": "pages/posts/chapters/9/9-workspace.html#filter-settings",
+    "href": "pages/posts/chapters/9/9-workspace.html#filter-settings",
+    "title": "BrainVision Workspace",
+    "section": "Filter Settings",
+    "text": "Filter Settings\nThere are 3 Filter Methods:\n\nRaw Data Saving Filters\nFilters are directly applied to the raw data. Use of this filter is not recommended, because this changes the raw data. When using BrainVision Analyzer you can apply filters to the raw data.\nSegmentation Filters\nWhen you specify segmentation (subsequent tab of the workspace wizard) you can also set filters for the segmented data.\nDisplay Filters\nThis filter only has an effect on the display on your screen. When you set the filter, you can switch it on and off during the data display by clicking on the Display Filter button."
+  },
+  {
+    "objectID": "pages/posts/chapters/9/9-workspace.html#segmentation-averaging",
+    "href": "pages/posts/chapters/9/9-workspace.html#segmentation-averaging",
+    "title": "BrainVision Workspace",
+    "section": "Segmentation / Averaging",
+    "text": "Segmentation / Averaging\nThis dialog allows you to make optional settings for segmentation and averaging."
+  },
+  {
+    "objectID": "pages/posts/chapters/9/9-workspace.html#saving",
+    "href": "pages/posts/chapters/9/9-workspace.html#saving",
+    "title": "BrainVision Workspace",
+    "section": "Saving",
+    "text": "Saving\nWhen you click on Finish, the Save As dialog opens allowing you to save the workspace file. Give the file a meaningful name and click Save."
+  },
+  {
+    "objectID": "pages/posts/chapters/9/9-workspace.html#electrode-position-files-epf",
+    "href": "pages/posts/chapters/9/9-workspace.html#electrode-position-files-epf",
+    "title": "BrainVision Workspace",
+    "section": "Electrode Position Files (EPF)",
+    "text": "Electrode Position Files (EPF)\nUsed to assign electrode names, positions, and physical channels in a workspace using predefined data from the cap manufacturer. It gives users the opportunity to adapt the electrode position data (for example, the physical channel). The EPF is written in XML format and is saved as a .BVEF file. This can be opened and edited in a text editor. The file has the following structure (see also the Analyzer Manual):"
+  },
+  {
+    "objectID": "pages/posts/chapters/9/9-workspace.html#create-workspace-using-an-epf",
+    "href": "pages/posts/chapters/9/9-workspace.html#create-workspace-using-an-epf",
+    "title": "BrainVision Workspace",
+    "section": "Create Workspace Using an EPF",
+    "text": "Create Workspace Using an EPF\n\nPre-requisites\n\nAn amplifier is selected\n\nThe amplifier is connected to the recording computer\n\nStep 1: Click on File &gt; New Workspace… or go to the Amplifier Settings dialog (second dialog page).\nStep 2: Click on Use Electrode Position File.\nStep 3: Select the checkbox Read positions from Electrode Position File.\nStep 4: Click on Browse and locate the electrode position file (.BVEF). (If you want to check the file, click on Preview).\nStep 5:* Click on Import amplifier channel table. Recorder takes over the assignment of channel names and physical channels.\n\n\n\n\n\n\nNote\n\n\n\nDon’t click this button if you edit an existing workspace and want to keep the channel assignment.\n\n\nStep 6: Click on OK to load the electrode positions (topographies).\nThe electrode positions and the channel table (if applicable) are loaded into Recorder. The information is written into the header file. You can check the result in the impedance measurement window.\n\n\n\n\n\n\nNote\n\n\n\nLoad complete files (covers the channel table and electrode topography): Steps 1–6\n\n\n\n\n\n\n\n\nNote\n\n\n\nLoad electrode topography (only electrodes that are already present in the channel table): Skip Step 5"
+  },
+  {
+    "objectID": "pages/posts/index.html",
+    "href": "pages/posts/index.html",
+    "title": "The EEG Lab Protocol",
+    "section": "",
+    "text": "This document is a guide on how to use the EEG lab for a testing session. Depending on your specific study, some steps might be added or modified. Neverthelss, this guide is the basis for a clean and smooth testing procedure. All rules should be respected, unless the primary investigator for your study tells you otherwise.\n\n\n\n\n\n\nWARNING\n\n\n\nAs the EEG equipment is very expensive and some parts of the equipment are also fragile, the entire procedure should be done with great carethis document should be read carefully.\n\n\nFor any questions or in case of unexpected incidents, please reach out to the following people:\n\nAlexa Ruel (alexa.ruel@uni-hamburg.de ; office VMP5, Room 4077)\nMarit Petzka (marit.petzka@uni-hamburg.de)\nNicolas Schuck (nicolas.schuck@uni-hamburg.de)"
   }
 ]

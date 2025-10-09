@@ -5,12 +5,12 @@ website:
   favicon: images\me.png
   navbar:
     left:
-     # - text: "About"
-      #  href: index.qmd
-      #- text: "The Jotter Pen"
-      #  href: pages/blog.qmd
-     # - text: "Professional Snapshot"
-      #  href: pages/cv.qmd
+      - text: "About"
+        href: index.qmd
+      - text: "Projects"
+        href: pages/blog.qmd
+      - text: "Professional Snapshot"
+        href: pages/cv.qmd
    #   - text: "Hate Visualizations(!)"
     #    href: pages/hate-visualizations.qmd
     #  - text: "Podcast (in Persian)"
