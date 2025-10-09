@@ -1,0 +1,26 @@
+project:
+  type: book
+  output-dir: ../docs/book
+  
+book:
+  title: "EEGLabGuideRepro"
+  chapters:
+    - index.qmd
+    - part: "Pre-testing Preparations"
+      chapters:
+        - chapters/1/1-hardware-components.qmd
+        - chapters/2/2-before-testing.qmd
+        - chapters/3/3-cap-electrode.qmd
+        - chapters/4/4-gel-impedance.qmd
+        - chapters/5/5-recording.qmd
+    - part: "During the Task"
+      chapters:
+        - chapters/6/6-task.qmd
+    - part: "Post-EEG Session Shutdown"
+      chapters:
+        - chapters/7/7-after.qmd
+        - chapters/8/8-cleanup.qmd
+    - part: "BrainVision Workspace"
+      chapters:
+        - chapters/9/9-workspace.qmd
+

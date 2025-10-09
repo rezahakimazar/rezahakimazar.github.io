@@ -1,0 +1,60 @@
+---
+title: "Hardware Components"
+format: html
+---
+
+The EEG lab room is comprised **(1) the EEG cabin (2) the workstation** and **(3) the cleaning station**.
+
+The task is performed inside the cabin, while the computers outside the cabin at the workstation runs the task and data collection. The workstation also includes the cleaning equipment, syringes, paper tissues, and towels.
+
+::: {layout-ncol="3"}
+![The EEG Cabin](../../images/1-hardware-components/3.png)
+
+![The Workstation](../../images/1-hardware-components/4.png)
+
+![The Cleaning Station](../../images/1-hardware-components/5.png)
+:::
+
+**Outside the EEG cabin**, at the workstation, you find see the task laptop, the EEG tower, and the trigger box.
+The laptop executes the experiment task and collects behavioral data, the tower records the EEG data, and the trigger box integrates triggers with the EEG data.
+ 
+::: {layout-ncol="3" title="Outside the EEG cabin"}
+![EEG Tower](../../images/1-hardware-components/6.png)
+
+![Battery](../../images/1-hardware-components/7.png)
+
+![Trigger Box](../../images/1-hardware-components/8.png)
+:::
+
+**Inside the EEG cabin**, you will find the amplifier, battery, participant’s
+monitor, and electrode cap and cable to carry out the experiment.
+The electrodes are connected to the amplifier which is powered by the battery.
+The monitor displays the task for the participant, and the cap provides a base for the electrodes to collect the data.
+
+
+::: {layout-ncol="3" title="Inside the EEG cabin"}
+![Electrodes cap](../../images/1-hardware-components/9.png)
+
+![Participant’s Monitor](../../images/1-hardware-components/10.png)
+
+![Amplifier](../../images/1-hardware-components/11.png)
+:::
+
+**The cleaning station** is where you will find:
+
+
+::: {layout-ncol="3" title="The cleaning station"}
+![Syringes](../../images/1-hardware-components/12.png)
+
+![Gel](../../images/1-hardware-components/13.png)
+
+![Towels & Shampoo](../../images/1-hardware-components/14.png)
+:::
+
+Do not forget to turn on the ventilator:
+
+::: {layout-ncol="3" title="The cleaning station"}
+![Ventilator](../../images/1-hardware-components/15.png)
+
+![Ventilator set on 2](../../images/1-hardware-components/16.jpg)
+:::

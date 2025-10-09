@@ -1,0 +1,10 @@
+---
+title: "EEG Lab Guide"
+format: html
+---
+
+![](/pages/images/header.jpg){fig-align="center"}
+
+We developed a lab guide to help other researchers learn the lab routines faster and easier. You can explore the full book here:
+
+[📖 Read the book](/book/)

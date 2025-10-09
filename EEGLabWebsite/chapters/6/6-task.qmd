@@ -1,0 +1,28 @@
+---
+title: "Reminders & Breaks"
+format: html
+---
+
+## Remind them to:
+
+1.1 Stay still between blocks
+1.2 Let you know if they need a break
+1.3 Knock on the cabin wall if they need help
+1.4 Look at the fixation cross when it’s on the screen.
+
+## Bathroom Breaks (if needed)
+
+*Step 1:* Pause recording in BrainVision
+
+::: {.callout-important title="IMPORTANT"}
+**DON’T HIT THE STOP BUTTON.**
+:::
+
+*Step 2:* Clamp electrode bundles with clip or tie.
+*Step 3:* Walk participant to bathroom.
+
+## Upon return
+
+*Step 1:* Re-run impedance check to quickly ensure the electrodes are getting good readings.
+*Step 2:* Restart recording (append data).
+*Step 3:* Continue task.

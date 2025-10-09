@@ -1,0 +1,34 @@
+---
+title: "Gel Demonstration & Impedance Setup"
+format: html
+---
+
+::: {.callout-tip title="Suggestion"}
+If the participant has never been in an EEG experiment, it is good to demonstrate the tools you are working with and explain to them what you will be doing in order to reduce impendance.
+:::
+
+## Start Impedance Check
+
+*Step 1:* On EEG Tower, hit Impedance button (2nd top-left in BrainVision).
+Electrodes will light up red.
+
+![Impedance Check on BrainVision](../../images/4-gel-impedance/43.jpg){width=40% fig-align="left"}
+
+
+## Gel Application Tips
+
+*Step 1:* Angle syringe toward the electrode base.
+*Step 2:* Apply gel into each electrode until you see a small amount come out of the hole.
+*Step 3:* Swirl gel with the blunt end of the Q-tip (circular motion).
+
+
+::: {layout-ncol="2" title="Gel Application"}
+
+![Apply Gel](../../images/4-gel-impedance/44.jpg){width=80% fig-align="left"}
+
+![Swirl with a Q-tip](../../images/4-gel-impedance/45.jpg){width=80% fig-align="left"}
+:::
+
+::: {.callout-important title="IMPORTANT"}
+**Only when all electrodes are green (you have successfully reduced impendence to good level), proceed to the next step (recording).**
+:::

@@ -1,0 +1,26 @@
+---
+title: "Starting the Recording"
+format: html
+---
+
+## On EEG Tower
+
+*Step 1:* Hit Stop sign. \
+*Step 2:* Click the Eyeball icon.\
+*Step 3:* Hit the play button.\
+*Step 4:* Add your participants ID and other information on the file name.\
+*Step 5:* Save the file to start recording.\
+
+::: {.callout-note title="Check"}
+The recording is indicated by a red bar on the bottom of the screen (“SAVING HDD”).
+:::
+
+*Step 6:* Confirm that BrainVision is recording (green play button is active, time elapsed is at the bottom of the screen).
+
+## Images to be added
+
+::: {layout-ncol="3" title="Recording"}
+
+
+:::
+

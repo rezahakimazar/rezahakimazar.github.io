@@ -1,0 +1,74 @@
+---
+title: "After the Task"
+format: html
+---
+
+## Stop the Recording
+
+*Step 1:* Stop BrainVision recording, by hitting the stop symbol.
+
+## Cap and Electrode Removal Procedure
+
+*Step 1:* Ask participant to remove chin strap. \
+*Step 2:* Remove cap by placing your fingers under the front of the cap and removing it front to back.\
+*Step 3:* Unplug the bands. (See below)
+
+::: {.callout-important title="IMPORTANT"}
+**Wrap connector boxes in a towel. The connectors are very sensitive and must not be wet. Even small drops of water can damage them. Be especially careful to keep them dry.**
+:::
+
+## Unplug Bands
+
+*Step 1:* Pinch base of plug and pull straight up.\
+
+:::{.callout-important title="IMPORTANT"}
+Do not pull on the wire as you may damage the connection. You should only use the plastic connector. 
+:::
+
+*Step 2:* For the ground electrode (labeled as GND), pinch at the plastic/amp junction and pull directly out—note that this is difficult to do so requires some force.\
+This **CANNOT** be bent or it will damage the pins inside the plug connector. **DO NOT PULL ON THE WIRE.**
+
+::: {layout-ncol="2" title="Unplugging the Bands and Ground Electrode"}
+
+![Pinch and Pull up](../../images/7-after/48.jpg){width=80% fig-align="left"}
+
+![Ground Electrode Unplugging](../../images/7-after/49.jpg){width=80% fig-align="left"}
+:::
+
+## Post-Session Hair Cleaning Support
+
+*Step 1:* Provide the time and materials for the participant to wash their hair (clean towel, shampoo, hairdryer, brush or comb). They can be found on the shelf to the left side of the cabinet under the sink. \
+*Step 2:* Close curtain for privacy 
+
+![Clean towel, Shampoo, Hairdryer](../../images/7-after/50.jpg){width=40% fig-align="left"}
+
+## Charge the Battery
+
+*Step 1:* Move the battery from the cabin to the experimenter desk outside the cabin, plug it in by aligning the notch in the cable to the slit in the hole on the battery. Push until you hear a click.
+
+:::{.callout-important title="IMPORTANT"}
+**The battery must remain plugged in to charge at all times when not in use.**
+:::
+
+![Battery Plugged in](../../images/7-after/51.jpg){width=40% fig-align="left"}
+
+Once participant is out of EEG lab and done washing their hair proceed to the next step.
+
+## Electrode Cleaning
+
+*Step 1:* Plug the sink and fill it with lukewarm/cold water and place them in the blue basket.
+
+:::{.callout-warning title="WARNING"}
+**Do not use warm water! This will damage the electrodes.**
+:::
+
+*Step 2:* Gently scrub gel out with a toothbrush until there is no more gel on the electrodes.\
+*Step 3:* Hang the electrodes on the hanger on the wall to the right side of the sink.
+
+:::{.callout-warning title="WARNING"}
+**The electrodes must not come in contact with any type of metal ever! This is very important to keep in mind at every single step of the experiment, especially while moving, washing and hanging the electrodes.**
+:::
+
+*Step 4:* Wash cap, hang to dry on plastic stand (left of sink). You can use the fan on the cap to dry it faster. This is necessary if you are testing more than one participant in the same day.
+
+#IMAGES TO BE ADDED

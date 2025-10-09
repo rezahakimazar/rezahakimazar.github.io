@@ -2,6 +2,7 @@
   {
     "listing": "/pages/blog.html",
     "items": [
+      "/pages/posts/eegbook.html",
       "/pages/posts/hate-visualizations.html",
       "/pages/posts/podcast.html"
     ]

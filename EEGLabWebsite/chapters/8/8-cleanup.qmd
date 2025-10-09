@@ -1,0 +1,35 @@
+---
+title: "Final Cleanup"
+format: html
+---
+
+# Closing the Lab
+
+*Step 1:* Shut down both computers.\
+*Step 2:* Ensure at least 2 clean towels are ready for the next day. If not, do laundry in Room 4135 (will need about 4.5 hours to complete).
+
+![Laundry Room](../../images/8-cleanup/56.jpg){width=40% fig-align="left"}
+
+*Step 3:* Lock all the doors.
+
+## Laundry Instructions
+
+### Siemens Washer/Dryer settings
+*Step 1:* Put the laundry detergent in the left-hand compartment.\
+*Step 2:* Set the washing program on “Koch/Buntwasche”.\
+*Step 3:* 60 degrees.\
+*Step 4:* Choose quick cycle on the screen.\
+*Step 5:* Choose drying cycle to be the wardrobe.\
+
+::: {layout-ncol="2" title="Laundry Instructions"}
+
+![Put the Laundry Detergent](../../images/8-cleanup/54.jpg){width=80% fig-align="left"}
+
+![Set the Washing Program](../../images/8-cleanup/55.jpg){width=80% fig-align="left"}
+
+![Set the Temparature](../../images/8-cleanup/52.jpg){width=80% fig-align="left"}
+
+![Choose the Drying Cycle](../../images/8-cleanup/53.jpg){width=80% fig-align="left"}
+
+
+:::

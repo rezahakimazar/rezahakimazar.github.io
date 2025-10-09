@@ -1,0 +1,85 @@
+---
+title: "Before Testing"
+format: html
+---
+
+## Prepare Battery
+
+*Step 1:* Connect the green male wire (notch aligned) to green port on the battery. \
+*Step 2:* Do the same for the red wire and port on amplifier.
+
+::: {.callout-tip title="REMINDER"}
+**The battery must stay pluged in all the time when not in use.**
+:::
+
+
+::: {layout-ncol="3" title="Battery Preparation"}
+
+![On the Battery](../../images/2-before-testing/17.jpg){width=80% fig-align="left"}
+
+![On the Amplifier](../../images/2-before-testing/18.jpg){width=80% fig-align="left"}
+
+![Battery and Amplifier Connected](../../images/2-before-testing/19.jpg){width=80% fig-align="left"}
+:::
+
+## Turn on Participant Cabin Monitor
+
+Power button is a small, hard-to-find front-bottom right button (not on back).
+
+::: {layout-ncol="1" title="Turn on Participant Cabin Monitor"}
+
+![Power Button](../../images/2-before-testing/23.jpg){width=25% fig-align="left"}
+
+:::
+
+## Power on the Task Laptop and EEG Tower
+
+*Step 1:* Log into the Admin account on the EEG Tower and task laptop (password: 4073abc).\
+*Step 2:* On the Tower: Launch BrainVision Recorder (click “Yes” when prompted).\
+*Step 3:* When the program is open, you should see a gray screen.
+
+
+::: {layout-ncol="3" title="Task Laptop & EEG Tower Preparation"}
+
+![luvadmin Account](../../images/2-before-testing/20.jpg){width=80% fig-align="left"}
+
+![Click Yes](../../images/2-before-testing/21.jpg){width=80% fig-align="left"}
+
+![Grey Screen on BrainVision](../../images/2-before-testing/22.jpg){width=80% fig-align="left"}
+:::
+
+
+## Prepare EEG Gel Syringes
+
+The syringes are stored under the sink inside boxes. \
+The gel tub, tips box, Q-tips, scissors, and tissues are kept on the shelf next to the sink.
+
+::: {layout-ncol="2" title="Where to Find the Tools"}
+
+![Boxes of Syringes](../../images/2-before-testing/29.jpg){width=50% fig-align="left"}
+
+![Gel tub, Tips box, Q-tips, Scissors & Tissues](../../images/2-before-testing/30.jpg){width=80% fig-align="left"}
+:::
+
+
+*Step 1:* Take out the syringes and the tips from their packaging. \
+*Step 2:* Fill two syringes with gel.\
+*Step 3:* Close the gel tub immediately to prevent drying.\
+*Step 4:* Attach the tips to the filled syringes.\
+*Step 5:* Cut one of the Q-tips ends with the scissors.\
+*Step 6:* Place two tissues and two Q-tips on the cabin bed in preparation for the participant.
+
+::: {layout-ncol="3" title="Gel & Syringes Preparation"}
+
+![Step 1](../../images/2-before-testing/24.jpg){width=80% fig-align="left"}
+
+![Step 2](../../images/2-before-testing/25.jpg){width=80% fig-align="left"}
+
+![Step 3](../../images/2-before-testing/13.png){width=80% fig-align="left"}
+
+![Step 4](../../images/2-before-testing/26.jpg){width=80% fig-align="left"}
+
+![Step 5](../../images/2-before-testing/27.jpg){width=80% fig-align="left"}
+
+![Step 6](../../images/2-before-testing/28.jpg){width=80% fig-align="left"}
+:::
