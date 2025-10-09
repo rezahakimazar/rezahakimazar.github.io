@@ -25,4 +25,4 @@ toc: false
 I'm Reza and this is my personal website.
 You can have an overview of my interests, skills and projects.
 
-I'm currently working in the ManyAnalysts Project with Dr. Katharina Paul and also the CMDM Lab (PI: Prof. Dr. Sebastian Gluth) at University of Hamburg.
+I'm currently working in the ManyAnalysts Project with Dr. Katharina Paul and also the CMDM Lab (PI: Prof. Dr. Sebastian Gluth) at University of Hamburg. My own research is on person perception and meta-accuracy of face trait inferences under supervision of Prof. Dr. Juliane Degner & Prof. Dr. Jenny Wagner.
