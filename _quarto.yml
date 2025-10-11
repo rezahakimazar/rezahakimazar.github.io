@@ -9,8 +9,8 @@ website:
         href: index.qmd
       - text: "Projects"
         href: pages/blog.qmd
-      - text: "Professional Snapshot"
-        href: pages/cv.qmd
+  #    - text: "Professional Snapshot"
+   #     href: pages/cv.qmd
    #   - text: "Hate Visualizations(!)"
     #    href: pages/hate-visualizations.qmd
     #  - text: "Podcast (in Persian)"

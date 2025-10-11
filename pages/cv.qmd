@@ -1,103 +1,73 @@
 ---
 title: "Reza Hakimazar"
 subtitle: "reza.hakimazar@studium.uni-hamburg.de / Hamburg, Germany / (+49) 1551 053 18 46"
-format: html
+format: typst
 ---
 
-## Education
+## Profile
 
-**University of Hamburg, Germany, Psychology, M.Sc.** 2023 - present
+I am a M.SC. Psychology student with background and experience in HR & industrial and organizational psychology,  data analysis and reporting using tools like Excel, R, Git.
 
-**University of Isfahan, Iran, Psychology, B.Sc.** 2018 - 2023
+## Skills
 
-Bachelor Thesis: *The Association between Gender Discrimination and Life Satisfaction among Iranian Women: Mediating Role of Belief in a Just World*
-
-**Supervisor:** [Dr. Simindokht Kalani](https://www.linkedin.com/in/simindokht-kalani-4957b878/?originalSubdomain=ir)
-
-GPA: *18.78/20 in the Iranian System or 1.3 in the German System*
+**Data Related**: Excel, Quarto, Git, Word, Power BI, R programming & SPSS, Data cleaning, merging spreadsheets
+**HR Skills**: Personnel Selection, Survey Design, Interview design, Assessment Center Development and Performing, Report Writing.
 
 ## Experience
 
-#### **Participant Recrutment and Research Assistant**
+#### **Research Data & Operations Assistant (CMDM Lab, UHH)**
+
+*Hamburg, Germany* \| *September 2025 - ongoing*
+
+ As a part of the CMDM Lab (PI: Prof. Dr. Sebastian Gluth), I work as a data collection and research assistant. This role involves in instructing and accompanying participants who volunteer to join in decision making studies. In addition, I organize the flow of the testing sessions. After the final part of data collection, I will also take over data analysis. In close collaboration with the lab manager, I also develop guides to make integration of the newly employed people run more smoothly. This lab is the most international and multi-cultural lab of the psychology department, which improves my working and collaboration style and helped me implement the previously learned skills in the LMoC Lab.
+
+#### **Scientometric Analyst**
 
 *Hamburg, Germany* \| *March 2025 - ongoing*
 
-{{< fa circle-info>}} To gain deeper insight into the research process and acquire hands-on experience, I manage participant data, recruit participants, and expand my knowledge in computational modelling. This diverse set of tasks not only challenges my flexibility in handling a wide range of responsibilities but also actively involves me in the research process, allowing me to gain practical experience under the guidance of post-doctoral researchers [Dr. Alexa Ruel](https://alexaruel.github.io/), [Dr. Xiangjuan Ren](https://scholar.google.com/citations?user=eA69neEAAAAJ&hl=en), and [Dr. Alexander Nitsch](https://x.com/AlexNitsch) at the Learning & Mechanisms of Change department at the University of Hamburg.
+ In a project that involves more than 250 scientists from all over the world, I am responsible for assessing their qualifications based on objective factors such as h-index, publications, impact factors and citations. I work with large spreadsheets and organize, filter, clean, and analyze data and build personalized dashboards of qualifications of the involved people in the project. The data is catches from Google Scholar servers, using a script that I developed via R programming language to optimize the assessment process by automation of repetitive tasks. The result of this project is expected to be published in a world class journal.
+
+
+#### **Research Assistant (Learning & Mechanisms of Change (LMoC), UHH)**
+
+*Hamburg, Germany* \| *March 2025 - August 2025*
+
+ To gain deeper insight into the research process and acquire hands-on experience, I manage participant data, recruit participants, and expand my knowledge in computational modelling. This diverse set of tasks not only challenges my flexibility in handling a wide range of responsibilities but also actively involves me in the research process, allowing me to gain practical experience. The LMoC Lab is an international lab which requires flexibility, cultural awareness, and interpersonal skills to work in.
 
 #### **Open Educational Resources Project** , *Research Assistant*
 
 *Hamburg, Germany* \| *September 2024 - March 2025*
 
-{{< fa circle-info>}} This project is under the supervision of Dr. Lennart Wittkuhn at the University of Hamburg. The project aims to decentralize educational materials and make them more accessible for professors and students.
+ This project is under the supervision of Dr. Lennart Wittkuhn at the University of Hamburg. The project aims to decentralize educational materials and make them more accessible for professors and students.
 
 #### **Track, Organize and Share your work: An Introduction to Git for Psychological Research** , *Teaching and Research Assistant*
 
 *Hamburg, Germany* \| *November 2024 - March 2025*
 
-{{< fa circle-info>}} This course is provided by Dr. Lennart Wittkuhn at Erasmus University Rotterdam and University of Hamburg. The course aims to familiarize the students with applications of Git in psychological research.
+ This course is provided by Dr. Lennart Wittkuhn at Erasmus University Rotterdam and University of Hamburg. The course aims to familiarize the students with applications of Git in psychological research and research data management.
 
-#### **Ravanyara Psychology Group** , *Founder*
 
-*Isfahan, Iran - Remote from Hamburg* \| *October 2022 - present*
+## Education
 
-{{< fa circle-info>}} Directed the remote organization of 3 scientific workshops, directly engaging with 100+ attendees and managing all communications - Published two issues of a psychology magazine for the public. - Implemented a feedback loop system to address customer inquiries, resulting in a 25 percent decrease in unresolved issues
+**Psychology, M.Sc., University of Hamburg, Germany** 2023 - present
+Key highlights: Hands-on experience on Personnel Selection / Eignungsdiagnostik under instruction of Dr. Frank Spohn and Dr. Frank Zinn
 
-#### **Faculty of Psychology, University of Isfahan** , *Magazine Editor-in-chief*
+**Industrial & Organizational Psychology (one-year program), University of Isfahan, Iran** 2022 - 2023
+Key highlights: Personnel Selection, Survey Design, Interview design, Assessment Center Development and Performing, Report Writing.
 
-*Isfahan, Iran* \| *February 2021 - September 2022*
+**Psychology, B.Sc., University of Isfahan, Iran** 2018 - 2022
+GPA: *1.3*
 
-{{< fa circle-info>}} Collaborated with authors to write simple scientific reviews - Managed team of 10+ student editors and writers - Issued 7 volumes of scientific magazine
+## Projects (Selected)
 
-#### **Faculty of Psychology, University of Isfahan** , *Board Member of Psychology Student Association*
+#### *Assessment Center Project, (UHH)*
+*Hamburg, Germany* \| *October 2024 - March 2025*
 
-*Isfahan, Iran* \| *November 2018 - February 2021*
+ In this project, we worked closely together in a team, to develop a fully functional assessment center and run it using 4 applicants who want to be pilots. The project was a mimic of the real process, however, every step, from developing the scenarions, designing the interview process, and use of psychological tests to inviting the applicants to the university andd writing a report (Gutachten in German) happend really. This project was a part of Eignungsdiagnostik project based seminar at the UHH under instruction of Dr. Frank Spohn.
 
-{{< fa circle-info>}} Coordinated academic projects, liaising with professors, administration offices,and external entities to facilitate smooth project execution - Helped over 200 students to access better education quality - Organized 10+ education workshops
-
-## Professional Development
-
-**Scientific Publications – How to make sense of complex texts**, *University of Hamburg, Germany*
-
-**Academic Writing Course**, *University of Hamburg, Germany*
-
-**Psychological Research Methods**, *Kharazmi University, Tehran, Iran*
-
-**An Introduction to Statistical Analysis with SPSS**, *Negareh Institute, Tehran, Iran*
-
-**EFPSA Research Summer School: The Importance of Understanding Diversity**
-
-*July 2024, Szklarska Poręba, Poland* *European Federation of Psychology Students’ Associations (EFPSA)*
-
-{{< fa circle-info>}} Exploring how psychology actively strives to foster community cohesion and enhance the welfare of societies, communities, and individuals. In this project, my focus is on the Afghan population in Iran and Germany to investigate the interaction of social exclusion, perceived discrimination, and hate speech.
-
-## Skills
-
-**Software**: Quarto, Git and Overleaf, Microsoft Office, Adobe Photoshop, Adobe Audition, Adobe InDesign **Statistical Analysis**: R programming, Python & SPSS
-
-## Publications
-
-Rajaei, S. N., Hakimazar, R., Mehrabi, H. (2021). Review Paper: Kidfluencing and Sharenting. *First National Scientific Student Conference on Psychology, Ardabil*.
 
 ## Languages
 
-**English**: *Proficient*, IELTS Certificate with an overall Band Score of 8 **German**: *Advanced*, TestDaF Certificate with an overall score of 19/20 **Persian**: *Native*
+**English**: *Proficient*, IELTS Certificate C1 **German**: *Advanced*, TestDaF Certificate B2-C1
+**Persian**: *Native*
 
-## Awards
-
-*Top Student*
-
-{{< fa circle-info>}} I was among the top 15 percent of psychology students of Isfahan University at the time of graduation based on academic performance.
-
-## Volunteering
-
-**Accessibility Improvement Project**, *Field Researcher*
-
-{{< fa circle-info>}} I participated in a community initiative focused on improving street accessibility for people with disabilities. This project demanded detailed data gathering and interactions with municipal offices and public transport authorities to make meaningful changes.
-
-**Skinner Box Podcast**, *Host*
-
-{{< fa circle-info>}} This podcast consists of interviews and focuses on the experiences of people who study or have studied psychology.
-
-**Psycastic Podcast**, *Host*
-
-{{< fa circle-info>}} I hosted a 3-episode podcast about social psychology. The main point was to introduce the field of social psychology and its implications to a non-expert audience.
